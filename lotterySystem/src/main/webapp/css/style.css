@@ -1,0 +1,95 @@
+html {
+    font-family: "Microsoft YaHei";
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+html, body {
+    min-width: 1000px;
+}
+input, button {
+    outline: none;
+    border: none;
+}
+input::-webkit-input-placeholder {
+    color: #FFFFFF;
+}
+input::-moz-placeholder {
+    color: #FFFFFF;
+}
+a {
+    text-decoration: none;
+}
+em {
+    font-style: normal;
+}
+.clear {
+    clear: both;
+}
+
+.ft12 {
+    font-size: 12px;
+}
+.ft14 {
+    font-size: 14px;
+}
+.ft16 {
+    font-size: 16px;
+}
+.ft18 {
+    font-size: 18px;
+}
+.ft20 {
+    font-size: 20px;
+}
+.gray {
+    color: #B2B2B2;
+}
+.black {
+    color: #000000;
+}
+.black-light {
+    color: #676767;
+}
+.float-left {
+    float: left;
+}
+.float-right {
+    float: right;
+}
+.main{
+	width: 100%;
+	height: 100%;
+	margin:0 auto;
+	border:1px solid red;
+	text-align: center;
+}
+.header{
+	width:100%;
+	height:120px;
+	margin-top: 30px;
+}
+.header button{
+	margin-left: 50px;
+}
+.content{
+	height: 600px;
+}
+.content ul li{
+	list-style: none;
+	float: left;
+	margin-left: 31px;
+}
+.content img{
+	width: 200px;
+	height: 200px;
+}
+.content ul li div{
+	width: 200px;
+	height: 250px;
+}
+.conetent ul li div span{
+	display: block;
+	width: 200px;
+	height: 48px;
+	border: 1px solid red;
+}
