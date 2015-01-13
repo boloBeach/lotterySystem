@@ -110,10 +110,5 @@ $(document).ready(function() {
 		});
 	});
 	
-	$("#download").on("click",function(){
-		
-		
-	});
-	
 	
 });
