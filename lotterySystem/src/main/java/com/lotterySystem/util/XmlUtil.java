@@ -83,6 +83,45 @@ public class XmlUtil {
 		}
 		return result;
 	}
+	/**
+	 * get the users who have  prized
+	 * @param document
+	 * @return
+	 */
+	public  List<UsersBean> getPrizedUsersByXml(Document document) {
+		List<UsersBean> result = new ArrayList<UsersBean>();
+		Element element = document.getRootElement(); // create root element
+		List<Element> listElements = element.getChildren("RECORD");
+		Element recod = null;
+		Element id = null;
+		Element englishName = null;
+		Element chineseName = null;
+		Element userImg = null;
+		Element isDelete = null;
+		Element prizeType = null;
+		String isdeleteString = null;
+		for (int i = 0; i < listElements.size(); i++) {
+			recod = listElements.get(i);
+			isDelete = recod.getChild("is_delete");
+			prizeType = recod.getChild("prize_type");
+			isdeleteString = isDelete.getText().trim();
+			if (!StringUtil.isNull(prizeType.getText())) {
+				id = recod.getChild("id");
+				englishName = recod.getChild("english_name");
+				chineseName = recod.getChild("chinese_name");
+				userImg = recod.getChild("user_img");
+				UsersBean usersBean = new UsersBean();
+				usersBean.setChineseName(chineseName.getText());
+				usersBean.setEnglishName(englishName.getText());
+				usersBean.setId(id.getText());
+				usersBean.setIsDeleteString(isdeleteString);
+				usersBean.setUserImg(userImg.getText());
+				usersBean.setPrizeType(prizeType.getText());
+				result.add(usersBean);
+			}
+		}
+		return result;
+	}
 	
 	/**
 	 * update the xml files

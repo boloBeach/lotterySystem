@@ -9,15 +9,21 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import org.jdom.Document;
-
 import com.google.gson.Gson;
 import com.lotterySystem.bean.UsersBean;
-import com.lotterySystem.constant.Constants;
+import com.lotterySystem.service.UsersService;
 import com.lotterySystem.util.StringUtil;
-import com.lotterySystem.util.XmlUtil;
 
 public class UsersServlet extends HttpServlet {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	private UsersService usersService;
+	@Override
+	public void init() throws ServletException {
+		usersService = new UsersService();
+	}
 	@Override
 	protected void doGet(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {
@@ -28,11 +34,7 @@ public class UsersServlet extends HttpServlet {
 		PrintWriter out = response.getWriter();
 		Gson gson = new Gson();
 		if (!StringUtil.isNull(start)) {
-		    ClassLoader classLoader = getClass().getClassLoader();
-		    String xmlPath = classLoader.getResource(Constants.XML_FILE_PATH).getPath();
-			XmlUtil xmlUtil = new XmlUtil(xmlPath);
-			Document document = xmlUtil.readDocument();
-			List<UsersBean> listUsersBeans = xmlUtil.getUsersByXml(document);
+			List<UsersBean> listUsersBeans = usersService.getListUsersBeans();
 			out.write(gson.toJson(listUsersBeans));
 		} else {
 			String error = "sorry the start is null";

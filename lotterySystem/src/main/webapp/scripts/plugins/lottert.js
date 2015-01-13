@@ -1,6 +1,8 @@
 $(document).ready(function() {
 	var iCount;
 	var array = new Array();
+	var arrayLength;
+	var ids= new Array();
 	// get random number
 	function getRandom(n) {
 		var rand = Math.floor(Math.random() * n + 1);
@@ -14,13 +16,13 @@ $(document).ready(function() {
 	var contentUl = $(".content ul");
 	
 	function showData(data){
-		setInterval(showHtml(data),300);
+		showHtml(data);
 	}
 	function showHtml(data){
 		contentUl.html("");
 		for (var i = 0;; i++) {
 			// 只生成10个随机数
-			if (array.length < 10) {
+			if (array.length < arrayLength) {
 				getRandom(data.length);
 			} else {
 				break;
@@ -50,11 +52,56 @@ $(document).ready(function() {
 			}
 		});
 	}
+	
 	$("#start").on("click", function() {
+		arrayLength = $("#arrayLength").val();
+		
+		var reg = new RegExp("^[0-9]*[1-9][0-9]*$");
+		if(arrayLength.match(reg)==null){
+			alert("Please enter a integer above 1");
+			$("#arrayLength").val("1");
+			return;
+		}
+		if(arrayLength==null||arrayLength==""){
+			arrayLength==1;
+		}
 		iCount = setInterval(getData, 100);
+		
+		$("#start").attr("disabled","true");
+		$("#submit").attr("disabled","true");
+		$("#stop").removeAttr("disabled");
 	});
 	
 	$("#stop").on("click",function(){
 		 clearInterval(iCount);
+		 
+		 $("#start").removeAttr("disabled");
+		 $("#submit").removeAttr("disabled");
+		 $("#stop").attr("disabled","true");
 	});
+	
+	$("#submit").attr("disabled","true");
+	$("#submit").on("click",function(){
+		var allSpans = $("span");
+		for (var i = 0; i < allSpans.length; i++) {
+			var span =allSpans[i];
+			span=$(span);
+			ids[i] = span.text().split("/")[0];
+		}
+		console.debug(ids);
+		$.ajax({
+			url : "getDataServlet",
+			type : "post",
+			cache : false,
+			dataType : 'json',
+			data : {
+				"ids":ids.toString(),
+				prizeType:$("#prizeType").val()
+			},
+			success : function(data){
+				
+			}
+		});
+	});
+	
 });

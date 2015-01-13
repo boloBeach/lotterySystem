@@ -8,9 +8,17 @@
 		<servlet-name>usersServlet</servlet-name>
 		<servlet-class>com.lotterySystem.servlet.UsersServlet</servlet-class>
 	</servlet>
+	<servlet>
+		<servlet-name>getDataServlet</servlet-name>
+		<servlet-class>com.lotterySystem.servlet.GetDataServlet</servlet-class>
+	</servlet>
 	<servlet-mapping>
 		<servlet-name>usersServlet</servlet-name>
 		<url-pattern>/usersServlet</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>getDataServlet</servlet-name>
+		<url-pattern>/getDataServlet</url-pattern>
 	</servlet-mapping>
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>
