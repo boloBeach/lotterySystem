@@ -1,4 +1,6 @@
 $(document).ready(function() {
+	
+	var cacheData;
 	var iCount;
 	var array = new Array();
 	var arrayLength;
@@ -15,22 +17,23 @@ $(document).ready(function() {
 	}
 	var contentUl = $(".content ul");
 	
-	function showData(data){
-		showHtml(data);
+	function showData(){
+		iCount =setInterval(showHtml,100);
+		// showHtml();
 	}
-	function showHtml(data){
+	function showHtml(){
 		contentUl.html("");
 		for (var i = 0;; i++) {
 			// 只生成10个随机数
 			if (array.length < arrayLength) {
-				getRandom(data.length);
+				getRandom(cacheData.length);
 			} else {
 				break;
 			}
 		}
 		for (var j = 0; j < array.length; j++) {
 			//alert(array[j]);
-			var object = data[array[j]-1];
+			var object = cacheData[array[j]-1];
 			$("<li><div><img alt=\""+object.englishName+"-"+object.chineseName+"\" title=\""+object.englishName+"-"+object.chineseName+"\" src=\""+object.userImg+"\"><span>"+object.id+"/"+object.englishName+"-"+object.chineseName+"</span></div></li>").appendTo(contentUl);
 		}
 		array.splice(0,array.length);  
@@ -48,10 +51,12 @@ $(document).ready(function() {
 				start : startString
 			},
 			success : function(data){
-				showData(data);
+				cacheData=data;
+				showData();
 			}
 		});
 	}
+	
 	
 	$("#start").on("click", function() {
 		arrayLength = $("#arrayLength").val();
@@ -65,12 +70,13 @@ $(document).ready(function() {
 		if(arrayLength==null||arrayLength==""){
 			arrayLength==1;
 		}
-		iCount = setInterval(getData, 100);
+		getData();
 		
 		$("#start").attr("disabled","true");
 		$("#submit").attr("disabled","true");
 		$("#stop").removeAttr("disabled");
 	});
+	
 	
 	$("#stop").on("click",function(){
 		 clearInterval(iCount);
@@ -79,6 +85,7 @@ $(document).ready(function() {
 		 $("#submit").removeAttr("disabled");
 		 $("#stop").attr("disabled","true");
 	});
+	
 	
 	$("#submit").attr("disabled","true");
 	$("#submit").on("click",function(){
@@ -99,9 +106,14 @@ $(document).ready(function() {
 				prizeType:$("#prizeType").val()
 			},
 			success : function(data){
-				
 			}
 		});
 	});
+	
+	$("#download").on("click",function(){
+		
+		
+	});
+	
 	
 });
