@@ -131,6 +131,9 @@ public class XmlUtil {
 	 * @param prize  price name
 	 */
 	public void updateXmlById(String id,Document document,String isDelete,String prizeType) throws Exception{
+		
+		System.out.println("id: "+id+", Document:"+document+", prizeType: "+prizeType);
+		
 		Element element = document.getRootElement(); // create root element
 		List<Element> listElements = element.getChildren("RECORD");
 		Element elementId = null;
