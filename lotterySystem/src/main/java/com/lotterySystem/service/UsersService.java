@@ -12,6 +12,7 @@ import com.lotterySystem.util.XmlUtil;
 public class UsersService {
 	public List<UsersBean> getListUsersBeans() {
 		ClassLoader classLoader = getClass().getClassLoader();
+		classLoader = Thread.currentThread().getContextClassLoader();
 		String xmlPath = classLoader.getResource(Constants.XML_FILE_PATH)
 				.getPath();
 		System.out.println("xmlPath: "+xmlPath);
@@ -24,6 +25,7 @@ public class UsersService {
 
 	public void updateUsers(String[] ids, String prizeType) {
 		ClassLoader classLoader = getClass().getClassLoader();
+		classLoader = Thread.currentThread().getContextClassLoader();
 		String xmlPath = classLoader.getResource(Constants.XML_FILE_PATH)
 				.getPath();
 		XmlUtil xmlUtil = new XmlUtil(xmlPath);
@@ -40,6 +42,10 @@ public class UsersService {
 
 
 	public void exportToExcel() {
-		POIUtil.export();
+		POIUtil.export1();
+	}
+
+	public void updatePrizeStatus(String prizeNo) {
+		
 	}
 }

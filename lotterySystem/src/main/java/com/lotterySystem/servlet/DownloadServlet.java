@@ -11,27 +11,20 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.lotterySystem.service.UsersService;
-
 public class DownloadServlet extends HttpServlet {
 	/**
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
-	private UsersService usersService;
-
-	@Override
-	public void init() throws ServletException {
-		usersService = new UsersService();
-	}
 
 	@Override
 	protected void doGet(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {
 		try {
 			String downFilename = request.getParameter("filename");
-			String filepath = Thread.currentThread().getContextClassLoader().getResource(downFilename).getPath();
-			System.out.println("Path: "+filepath);
+			String filepath = Thread.currentThread().getContextClassLoader()
+					.getResource(downFilename).getPath();
+			System.out.println("Path: " + filepath);
 			response.setContentType("text/plain");
 			response.setHeader("Location", downFilename);
 			response.setHeader("Content-Disposition", "attachment; filename="

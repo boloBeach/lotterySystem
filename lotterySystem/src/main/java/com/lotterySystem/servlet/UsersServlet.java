@@ -35,6 +35,7 @@ public class UsersServlet extends HttpServlet {
 		Gson gson = new Gson();
 		if (!StringUtil.isNull(start)) {
 			List<UsersBean> listUsersBeans = usersService.getListUsersBeans();
+			System.out.println("Users number: "+listUsersBeans.size());
 			out.write(gson.toJson(listUsersBeans));
 		} else {
 			String error = "sorry the start is null";

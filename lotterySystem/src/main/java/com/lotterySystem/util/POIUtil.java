@@ -12,8 +12,6 @@ import java.util.Collection;
 import java.util.List;
 import java.util.Map;
 
-import lotterySystem.POITest;
-
 import org.apache.poi.hssf.usermodel.HSSFCell;
 import org.apache.poi.hssf.usermodel.HSSFCellStyle;
 import org.apache.poi.hssf.usermodel.HSSFRow;
@@ -36,11 +34,11 @@ public class POIUtil {
 	public static String prizeXlsName = "prizeDisplay.xls";
 
 	public static void main(String[] args) {
-		// export();
-		List<PrizeInfoBean> map = readXls();
-		for (PrizeInfoBean prizeInfoBean : map) {
-			System.out.println(prizeInfoBean);
-		}
+		 export1();
+//		List<PrizeInfoBean> map = readXls();
+//		for (PrizeInfoBean prizeInfoBean : map) {
+//			System.out.println(prizeInfoBean);
+//		}
 	}
 
 	/**
@@ -71,8 +69,9 @@ public class POIUtil {
 
 			HSSFSheet prizeSheet = wbook.getSheetAt(0);
 			int rows = prizeSheet.getLastRowNum();
+			
 
-			for (int i = 0; i < rows; i++) {
+			for (int i = 1; i < rows; i++) {
 				HSSFRow prizeRow = prizeSheet.getRow(i);
 				short cells = prizeRow.getLastCellNum();
 
@@ -84,9 +83,15 @@ public class POIUtil {
 					if (HSSFCell.CELL_TYPE_NUMERIC == cellType) {
 						double value = prizeCell.getNumericCellValue();
 						if (j == 0) {
-							prizeInfoBean.setPrizeLevel(String.valueOf(value));
+							prizeInfoBean.setRound(String.valueOf(value));
 						} else if (j == 3) {
 							prizeInfoBean.setPrizedPersonNum(value);
+						}else if(j==4){
+							prizeInfoBean.setPrizeTotal(value);
+						}else if(j==5){
+							prizeInfoBean.setPrizeNo(String.valueOf(value));
+						}else if(j==6){
+							prizeInfoBean.setPrizeStatus(Integer.valueOf(String.valueOf(value)));
 						}
 					} else if (HSSFCell.CELL_TYPE_STRING == cellType) {
 						String value = prizeCell.getStringCellValue();
@@ -97,7 +102,9 @@ public class POIUtil {
 						}
 					}
 				}
-				prizeInfoBeanList.add(prizeInfoBean);
+				if(prizeInfoBean.getPrizeStatus().equals(0)){
+					prizeInfoBeanList.add(prizeInfoBean);
+				}
 			}
 
 			wbook.close();
@@ -135,7 +142,8 @@ public class POIUtil {
 				headCell.setCellValue(heads[i]);
 			}
 			// data here
-			ClassLoader classLoader = new POITest().getClass().getClassLoader();
+			ClassLoader classLoader = new POIUtil().getClass().getClassLoader();
+			classLoader = Thread.currentThread().getContextClassLoader();
 			String xmlPath = classLoader.getResource(Constants.XML_FILE_PATH)
 					.getPath();
 			XmlUtil xmlUtil = new XmlUtil(xmlPath);
@@ -185,6 +193,7 @@ public class POIUtil {
 		}
 	}
 
+	@SuppressWarnings("static-access")
 	public static void export1() {
 		try {
 			HSSFWorkbook xls = new HSSFWorkbook();
@@ -200,7 +209,7 @@ public class POIUtil {
 
 			introCell.setCellStyle(style);
 			introCell
-					.setCellValue("Award level explain: 0[特等奖],1[一等奖],2[二等奖],3[三等奖]");
+					.setCellValue("Awarded Infomation");
 			hssfSheet.addMergedRegion(new CellRangeAddress(0, 0, 0, 3));
 
 			// head title row
@@ -210,7 +219,8 @@ public class POIUtil {
 				headCell.setCellValue(heads[i]);
 			}
 			// data here
-			ClassLoader classLoader = new POITest().getClass().getClassLoader();
+			ClassLoader classLoader = new POIUtil().getClass().getClassLoader();
+			classLoader = Thread.currentThread().getContextClassLoader();
 			String xmlPath = classLoader.getResource(Constants.XML_FILE_PATH)
 					.getPath();
 			XmlUtil xmlUtil = new XmlUtil(xmlPath);
@@ -222,21 +232,20 @@ public class POIUtil {
 			Collection<List<UsersBean>> values = listUsersBeansMap.values();
 
 			for (List<UsersBean> listUsersBeans : values) {
-				System.out.println("listUsersBeans.size: "
-						+ listUsersBeans.size());
-
 				for (int i = 0; i < listUsersBeans.size(); i++) {
 					UsersBean usersBean = listUsersBeans.get(i);
 					String prizeType = usersBean.getPrizeType();
-					System.out.println("prizeType: " + prizeType);
+					//System.out.println("prizeType: " + prizeType);
 					if (!StringUtil.isNull(prizeType)) {
 						HSSFRow childRow = hssfSheet.createRow(rowNum);
 						HSSFCell idCell = childRow.createCell(0);
 						HSSFCell enNameCell = childRow.createCell(1);
-						HSSFCell chNameCell = childRow.createCell(2);
-						HSSFCell prizeCell = childRow.createCell(3);
+						HSSFCell laNameCell = childRow.createCell(2);
+						HSSFCell chNameCell = childRow.createCell(3);
+						HSSFCell prizeCell = childRow.createCell(4);
 						idCell.setCellValue(usersBean.getId());
 						enNameCell.setCellValue(usersBean.getEnglishName());
+						laNameCell.setCellValue(usersBean.getLastName());
 						chNameCell.setCellValue(usersBean.getChineseName());
 						prizeCell.setCellValue(usersBean.getPrizeType());
 						rowNum++;

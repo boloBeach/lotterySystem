@@ -23,6 +23,7 @@ import com.lotterySystem.bean.UsersBean;
  * @see this is control xml file
  *
  */
+@SuppressWarnings("unchecked")
 public class XmlUtil {
 	
 	private String xmlFile;
@@ -55,6 +56,7 @@ public class XmlUtil {
 	 * get users by xml with xml prize_type is null or id_delete is 0
 	 * @return
 	 */
+
 	public List<UsersBean> getUsersByXml(Document document){
 		List<UsersBean> result = new ArrayList<UsersBean>();
 		Element element = document.getRootElement(); // create root element
@@ -63,6 +65,7 @@ public class XmlUtil {
 		Element id = null;
 		Element englishName = null;
 		Element chineseName = null;
+		Element lastName = null;
 		Element userImg = null;
 		Element isDelete = null;
 		String isdeleteString = null;
@@ -74,6 +77,7 @@ public class XmlUtil {
 				id = recod.getChild("id");
 				englishName = recod.getChild("english_name");
 				chineseName = recod.getChild("chinese_name");
+				lastName = recod.getChild("last_name");
 				userImg = recod.getChild("user_img");
 				UsersBean usersBean = new UsersBean();
 				usersBean.setChineseName(chineseName.getText());
@@ -81,6 +85,7 @@ public class XmlUtil {
 				usersBean.setId(id.getText());
 				usersBean.setIsDeleteString(isdeleteString);
 				usersBean.setUserImg(userImg.getText());
+				usersBean.setLastName(lastName.getText());
 				result.add(usersBean);
 			}
 		}
@@ -99,6 +104,7 @@ public class XmlUtil {
 		Element id = null;
 		Element englishName = null;
 		Element chineseName = null;
+		Element lastName = null;
 		Element userImg = null;
 		Element isDelete = null;
 		Element prizeType = null;
@@ -112,6 +118,7 @@ public class XmlUtil {
 				id = recod.getChild("id");
 				englishName = recod.getChild("english_name");
 				chineseName = recod.getChild("chinese_name");
+				lastName = recod.getChild("last_name");
 				userImg = recod.getChild("user_img");
 				UsersBean usersBean = new UsersBean();
 				usersBean.setChineseName(chineseName.getText());
@@ -120,6 +127,7 @@ public class XmlUtil {
 				usersBean.setIsDeleteString(isdeleteString);
 				usersBean.setUserImg(userImg.getText());
 				usersBean.setPrizeType(prizeType.getText());
+				usersBean.setLastName(lastName.getText());
 				result.add(usersBean);
 			}
 		}
@@ -155,15 +163,14 @@ public class XmlUtil {
 	
 	
 	private static Map<String, List<UsersBean>> initPrizeLevelAndUsersBeanListMap(){
+		String[] prizeNames = {"prize 1","prize 2","prize 3","prize 4",
+				               "prize 5","prize 6","prize 7","prize 8",
+				               "prize 9","prize 10","prize 11","prize 12"
+								};
 		Map<String, List<UsersBean>> resultMap = new HashMap<String, List<UsersBean>>();
-		resultMap.put("0", new ArrayList<UsersBean>());
-		resultMap.put("1", new ArrayList<UsersBean>());
-		resultMap.put("2", new ArrayList<UsersBean>());
-		resultMap.put("3", new ArrayList<UsersBean>());
-		resultMap.put("4", new ArrayList<UsersBean>());
-		resultMap.put("5", new ArrayList<UsersBean>());
-		resultMap.put("6", new ArrayList<UsersBean>());
-		
+		for (int i = 0; i <prizeNames.length; i++) {
+			resultMap.put(prizeNames[i], new ArrayList<UsersBean>());
+		}
 		return resultMap;
 	}
 	
@@ -183,6 +190,7 @@ public class XmlUtil {
 		Element id = null;
 		Element englishName = null;
 		Element chineseName = null;
+		Element lastName = null;
 		Element userImg = null;
 		Element isDelete = null;
 		Element prizeType = null;
@@ -198,6 +206,7 @@ public class XmlUtil {
 				id = recod.getChild("id");
 				englishName = recod.getChild("english_name");
 				chineseName = recod.getChild("chinese_name");
+				lastName = recod.getChild("last_name");
 				userImg = recod.getChild("user_img");
 				UsersBean usersBean = new UsersBean();
 				usersBean.setChineseName(chineseName.getText());
@@ -206,6 +215,7 @@ public class XmlUtil {
 				usersBean.setIsDeleteString(isdeleteString);
 				usersBean.setUserImg(userImg.getText());
 				usersBean.setPrizeType(prizeType.getText());
+				usersBean.setLastName(lastName.getText());
 				List<UsersBean> list = resultMap.get(prizeType.getText());
 				list.add(usersBean);
 			}

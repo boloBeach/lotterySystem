@@ -33,17 +33,19 @@ public class GetDataServlet extends HttpServlet {
 		response.setHeader("Cache-Control", "no-cache");
 		response.setHeader("Pragma", "no-cache");
 		String personIDs = request.getParameter("ids");
-		String prizeType = request.getParameter("prizeType");
+		//String round = request.getParameter("round");
+		String prizeNo = request.getParameter("prizeNo");
 		String prizeName = request.getParameter("prizeName");
-		System.out.println("personIDs: " + personIDs);
-		System.out.println("prizeType: " + prizeType);
+		//System.out.println("personIDs: " + personIDs);
+		//System.out.println("prizeType: " + round);
 
 		String[] ids = null;
 		if (personIDs != null) {
 			ids = personIDs.split(",");
 		}
-		usersService.updateUsers(ids, prizeType);
+		usersService.updateUsers(ids, prizeName);
 		usersService.exportToExcel();
+		usersService.updatePrizeStatus(prizeNo);
 
 		PrintWriter out = response.getWriter();
 		Gson gson = new Gson();
