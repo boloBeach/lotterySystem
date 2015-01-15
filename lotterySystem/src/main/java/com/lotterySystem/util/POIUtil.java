@@ -34,11 +34,11 @@ public class POIUtil {
 	public static String prizeXlsName = "prizeDisplay.xls";
 
 	public static void main(String[] args) {
-		 export1();
-//		List<PrizeInfoBean> map = readXls();
-//		for (PrizeInfoBean prizeInfoBean : map) {
-//			System.out.println(prizeInfoBean);
-//		}
+		export1();
+		// List<PrizeInfoBean> map = readXls();
+		// for (PrizeInfoBean prizeInfoBean : map) {
+		// System.out.println(prizeInfoBean);
+		// }
 	}
 
 	/**
@@ -69,7 +69,6 @@ public class POIUtil {
 
 			HSSFSheet prizeSheet = wbook.getSheetAt(0);
 			int rows = prizeSheet.getLastRowNum();
-			
 
 			for (int i = 1; i < rows; i++) {
 				HSSFRow prizeRow = prizeSheet.getRow(i);
@@ -86,12 +85,16 @@ public class POIUtil {
 							prizeInfoBean.setRound(String.valueOf(value));
 						} else if (j == 3) {
 							prizeInfoBean.setPrizedPersonNum(value);
-						}else if(j==4){
+						} else if (j == 4) {
 							prizeInfoBean.setPrizeTotal(value);
-						}else if(j==5){
+						} else if (j == 5) {
 							prizeInfoBean.setPrizeNo(String.valueOf(value));
-						}else if(j==6){
-							prizeInfoBean.setPrizeStatus(Integer.valueOf(String.valueOf(value)));
+						} else if (j == 6) {
+							if (value == 0) {
+								prizeInfoBean.setPrizeStatus(0);
+							} else if (value == 1) {
+								prizeInfoBean.setPrizeStatus(1);
+							}
 						}
 					} else if (HSSFCell.CELL_TYPE_STRING == cellType) {
 						String value = prizeCell.getStringCellValue();
@@ -102,7 +105,7 @@ public class POIUtil {
 						}
 					}
 				}
-				if(prizeInfoBean.getPrizeStatus().equals(0)){
+				if (prizeInfoBean.getPrizeStatus().equals(0)) {
 					prizeInfoBeanList.add(prizeInfoBean);
 				}
 			}
@@ -208,8 +211,7 @@ public class POIUtil {
 			HSSFCell introCell = introRow.createCell(0);
 
 			introCell.setCellStyle(style);
-			introCell
-					.setCellValue("Awarded Infomation");
+			introCell.setCellValue("Awarded Infomation");
 			hssfSheet.addMergedRegion(new CellRangeAddress(0, 0, 0, 3));
 
 			// head title row
@@ -235,7 +237,7 @@ public class POIUtil {
 				for (int i = 0; i < listUsersBeans.size(); i++) {
 					UsersBean usersBean = listUsersBeans.get(i);
 					String prizeType = usersBean.getPrizeType();
-					//System.out.println("prizeType: " + prizeType);
+					// System.out.println("prizeType: " + prizeType);
 					if (!StringUtil.isNull(prizeType)) {
 						HSSFRow childRow = hssfSheet.createRow(rowNum);
 						HSSFCell idCell = childRow.createCell(0);
