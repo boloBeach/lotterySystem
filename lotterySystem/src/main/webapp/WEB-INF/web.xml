@@ -16,6 +16,10 @@
 		<servlet-name>downloadServlet</servlet-name>
 		<servlet-class>com.lotterySystem.servlet.DownloadServlet</servlet-class>
 	</servlet>
+	<servlet>
+		<servlet-name>getPrizeInfoServlet</servlet-name>
+		<servlet-class>com.lotterySystem.servlet.GetPrizeInfoServlet</servlet-class>
+	</servlet>
 	<servlet-mapping>
 		<servlet-name>usersServlet</servlet-name>
 		<url-pattern>/usersServlet</url-pattern>
@@ -27,6 +31,10 @@
 	<servlet-mapping>
 		<servlet-name>downloadServlet</servlet-name>
 		<url-pattern>/downloadServlet</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>getPrizeInfoServlet</servlet-name>
+		<url-pattern>/getPrizeInfoServlet</url-pattern>
 	</servlet-mapping>
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>

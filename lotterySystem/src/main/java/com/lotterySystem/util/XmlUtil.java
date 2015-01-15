@@ -4,7 +4,10 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
+import java.util.Set;
 
 import org.jdom.Document;
 import org.jdom.Element;
@@ -149,4 +152,66 @@ public class XmlUtil {
 		
 	}
 	
+	
+	
+	private static Map<String, List<UsersBean>> initPrizeLevelAndUsersBeanListMap(){
+		Map<String, List<UsersBean>> resultMap = new HashMap<String, List<UsersBean>>();
+		resultMap.put("0", new ArrayList<UsersBean>());
+		resultMap.put("1", new ArrayList<UsersBean>());
+		resultMap.put("2", new ArrayList<UsersBean>());
+		resultMap.put("3", new ArrayList<UsersBean>());
+		resultMap.put("4", new ArrayList<UsersBean>());
+		resultMap.put("5", new ArrayList<UsersBean>());
+		resultMap.put("6", new ArrayList<UsersBean>());
+		
+		return resultMap;
+	}
+	
+	
+	/**
+	 * get prized users by prize level
+	 * @param document
+	 * @return
+	 */
+	public static Map<String, List<UsersBean>> getAwardedUsersByXml(Document document) {
+		Map<String, List<UsersBean>> resultMap = initPrizeLevelAndUsersBeanListMap();
+		Set<String> keySet = resultMap.keySet();
+
+		Element element = document.getRootElement(); // create root element
+		List<Element> listElements = element.getChildren("RECORD");
+		Element recod = null;
+		Element id = null;
+		Element englishName = null;
+		Element chineseName = null;
+		Element userImg = null;
+		Element isDelete = null;
+		Element prizeType = null;
+		String isdeleteString = null;
+		for (int i = 0; i < listElements.size(); i++) {
+			recod = listElements.get(i);
+			isDelete = recod.getChild("is_delete");
+			prizeType = recod.getChild("prize_type");
+			isdeleteString = isDelete.getText().trim();
+
+			boolean contains = keySet.contains(prizeType.getText());
+			if (!StringUtil.isNull(prizeType.getText()) && contains) {
+				id = recod.getChild("id");
+				englishName = recod.getChild("english_name");
+				chineseName = recod.getChild("chinese_name");
+				userImg = recod.getChild("user_img");
+				UsersBean usersBean = new UsersBean();
+				usersBean.setChineseName(chineseName.getText());
+				usersBean.setEnglishName(englishName.getText());
+				usersBean.setId(id.getText());
+				usersBean.setIsDeleteString(isdeleteString);
+				usersBean.setUserImg(userImg.getText());
+				usersBean.setPrizeType(prizeType.getText());
+				List<UsersBean> list = resultMap.get(prizeType.getText());
+				list.add(usersBean);
+			}
+		}
+		
+		System.out.println("resultMap:"+resultMap);
+		return resultMap;
+	}
 }

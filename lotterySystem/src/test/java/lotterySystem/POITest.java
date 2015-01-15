@@ -38,13 +38,25 @@ public class POITest {
 	public static Boolean clearFlag = true;
 
 	public static void main(String[] args) {
-		export();
+//		export();
+		readXls();
+	}
+
+	public static String prizeXlsName = "prizeDisplay.xls";
+
+	public static void readXls() {
+		String path = Thread.currentThread().getContextClassLoader()
+				.getResource("").getPath();
+		
+		
+
 	}
 
 	public static void export() {
 		try {
 			HSSFWorkbook xls = new HSSFWorkbook();
 			HSSFSheet hssfSheet = xls.createSheet();
+
 			for (int i = 0; i < 4; i++) {
 				hssfSheet.setColumnWidth(i, 4500);
 			}
@@ -117,19 +129,16 @@ public class POITest {
 			e.printStackTrace();
 		}
 	}
-	
-	
-	private static Map<String, List<UsersBean>> initPrizeLevelAndUsersBeanListMap(){
+
+	private static Map<String, List<UsersBean>> initPrizeLevelAndUsersBeanListMap() {
 		Map<String, List<UsersBean>> resultMap = new HashMap<String, List<UsersBean>>();
 		resultMap.put("0", new ArrayList<UsersBean>());
 		resultMap.put("1", new ArrayList<UsersBean>());
 		resultMap.put("2", new ArrayList<UsersBean>());
 		resultMap.put("3", new ArrayList<UsersBean>());
-		
+
 		return resultMap;
 	}
-	
-	
 
 	public static Map<String, List<UsersBean>> getUsersByXml(Document document) {
 		Map<String, List<UsersBean>> resultMap = initPrizeLevelAndUsersBeanListMap();

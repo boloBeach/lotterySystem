@@ -14,6 +14,8 @@ public class UsersService {
 		ClassLoader classLoader = getClass().getClassLoader();
 		String xmlPath = classLoader.getResource(Constants.XML_FILE_PATH)
 				.getPath();
+		System.out.println("xmlPath: "+xmlPath);
+		
 		XmlUtil xmlUtil = new XmlUtil(xmlPath);
 		Document document = xmlUtil.readDocument();
 		List<UsersBean> listUsersBeans = xmlUtil.getUsersByXml(document);
