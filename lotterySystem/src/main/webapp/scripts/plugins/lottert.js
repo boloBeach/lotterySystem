@@ -24,6 +24,10 @@ $(document)
 					});
 
 					$("#next").on("click",function() {
+										if(prizeCount==0||(prizeCount>0&&prizeData[prizeCount]==(prizeData[prizeCount-1].round+1))){
+											alert("第"+prizeData[prizeCount].round+"轮抽奖即将开始!");
+										}
+						
 									    $("#start").removeAttr("disabled");
 									    $("#start").css({"width": "100px","height": "60px","padding":"0 20px","margin-right": "30px","font-size": "large"});
 										$("#next").attr("disabled", true);
@@ -126,10 +130,6 @@ $(document)
 					
 					$("#start").attr("disabled", "true");
 					$("#start").on("click", function() {
-						if(prizeCount==27){
-							alert("No prize left!");
-							return;
-						}
 						arrayLength = $("#arrayLength").val();
 
 						var reg = new RegExp("^[0-9]*[1-9][0-9]*$");
@@ -178,22 +178,28 @@ $(document)
 
 														currentPrizeLeft = currentPrizeLeft - prize.prizedPersonNum;
 														prize.prizedPersonNum = 0;
-														
-														var nextPrize = prizeData[prizeCount];
-														$("#arrayLength").val(nextPrize.prizedPersonNum);
-														var size = data.length;
-														if (size <= nextPrize.prizedPersonNum) {
-															$("#arrayLength").val(size);
-														}
-														
-														if (nextPrize.prizeName != prize.prizeName) {
-															$("#next").removeAttr("disabled");
+														if(prizeCount < prizeData.length){
+															var nextPrize = prizeData[prizeCount];
+															$("#arrayLength").val(nextPrize.prizedPersonNum);
+															var size = data.length;
+															if (size <= nextPrize.prizedPersonNum) {
+																$("#arrayLength").val(size);
+															}
+															
+															if (nextPrize.prizeName != prize.prizeName) {
+																$("#next").removeAttr("disabled");
+																$("#start").css({"width": "64px","height": "34px","padding":"0 1px","margin-right": "30px","font-size": "small"});
+																$("#start").attr("disabled",true);
+															} else {
+																$("#next").removeAttr("disabled");
+																$("#next").click();
+																$("#next").attr("disabled",true);
+															}
+														}else if(prizeCount == prizeData.length){
 															$("#start").css({"width": "64px","height": "34px","padding":"0 1px","margin-right": "30px","font-size": "small"});
 															$("#start").attr("disabled",true);
-														} else {
-															$("#next").removeAttr("disabled");
-															$("#next").click();
-															$("#next").attr("disabled",true);
+															$("#stop").css({"width": "64px","height": "34px","padding":"0 1px","margin-left": "30px","font-size": "small"});
+															$("#stop").attr("disabled", "true");
 														}
 													}
 												});

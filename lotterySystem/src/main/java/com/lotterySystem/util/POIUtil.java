@@ -74,7 +74,6 @@ public class POIUtil {
 			for (int i = 1; i < rows; i++) {
 				HSSFRow prizeRow = prizeSheet.getRow(i);
 				short cells = prizeRow.getLastCellNum();
-				System.out.println("cells: " + cells);
 
 				PrizeInfoBean prizeInfoBean = new PrizeInfoBean();
 				for (int j = 0; j < cells; j++) {
