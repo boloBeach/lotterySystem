@@ -1,6 +1,4 @@
-$(document)
-		.ready(
-				function() {
+$(document).ready(function() {
 
 					var currentPrize = $("#currentPrize");
 					var prizeData;
@@ -10,7 +8,12 @@ $(document)
 					var currentPrizeLeft = -1;
 					var currentRound = 0;
 					var currentPrizeName = null;
-
+					
+					var startHide = {"width": "64px","height": "34px","padding":"0 1px","margin-right": "30px","font-size": "small"};
+					var startShow = {"width": "100px","height": "60px","padding":"0 20px","margin-right": "30px","font-size": "large"};
+					var stopShow = {"width": "100px","height": "60px","padding":"0 20px","margin-left": "30px","font-size": "large"};
+					var stopHide = {"width": "64px","height": "34px","padding":"0 1px","margin-left": "30px","font-size": "small"};
+					
 					$.ajax({
 						url : "getPrizeInfoServlet",
 						type : "post",
@@ -18,21 +21,30 @@ $(document)
 						dataType : 'json',
 						data : {},
 						success : function(data) {
-							alert(data.length);
+							//alert(data.length);
 							prizeData = data;
 						}
 					});
+					
 					var imageShow = $(".image-show");
 					imageShow.find("img").on("click",function(){
 						 imageShow.hide();
 					});
+					
 					$("#next").on("click",function() {
 										if(prizeCount==0||(prizeCount>0&&prizeData[prizeCount].round==(prizeData[prizeCount-1].round+1))){
 											alert("第"+prizeData[prizeCount].round+"轮抽奖即将开始!");
 										}
-						
+										if(prizeCount==0||(prizeCount>0&&prizeData[prizeCount].prizeName!=prizeData[prizeCount-1].prizeName)){
+											imageShow.show();
+											imageShow.find("img").attr('style', '').attr("title","点击图片关闭").attr('src', "images/"+prizeData[prizeCount].prizePicName).animate({
+												width: "90%",
+												height: "90%",
+												opacity: 1
+											})
+										}
 									    $("#start").removeAttr("disabled");
-									    $("#start").css({"width": "100px","height": "60px","padding":"0 20px","margin-right": "30px","font-size": "large"});
+									    $("#start").css(startShow);
 										$("#next").attr("disabled", true);
 										
 										if (prizeCount >= prizeData.length) {
@@ -48,18 +60,7 @@ $(document)
 										}
 										
 
-										currentPrize.html("Current Prize:<a class=\"group1\" href=\"./images/"
-														+ prize.prizePicName
-														+ "\" >"
-														+ prize.prizeName
-														+ "</a>");
-										imageShow.show();
-										imageShow.find("img").attr('style', '').attr("title","点击图片关闭").attr('src', "./images/"+prize.prizePicName).animate({
-							                width: "90%",
-							                height: "90%",
-							                opacity: 1
-							            })
-										console.debug("prizeCount: "+prizeCount+", prize.prizedPersonNum: "+prize.prizedPersonNum);
+										currentPrize.html("Current Prize:<a class=\"group1\" href=\"./images/"+ prize.prizePicName+ "\" >"+ prize.prizeName+ "</a>");
 										$("#arrayLength").val(prize.prizedPersonNum);
 										$("#round").val(prize.round);
 										$("#prizeName").val(prize.prizeName);
@@ -102,17 +103,7 @@ $(document)
 						for (var j = 0; j < array.length; j++) {
 							// alert(array[j]);
 							var object = cacheData[array[j] - 1];
-					
-							// $("<li><div id=\""
-							// + object.id + "\">"
-							// + object.englishName + "-"
-							// + object.chineseName
-							// + "</div></li>").appendTo(
-							// contentUl);
-							$("<div class=\"person\" id=\"" + object.id
-											+ "\" >" + object.chineseName
-											+ " <br/>" + object.englishName
-											+ "<br/>"+object.lastName+" <br/></div>")
+							$("<div class=\"person\" id=\"" + object.id+ "\" >" + object.chineseName+ " <br/>" + object.englishName+ "<br/>"+object.lastName+" <br/></div>")
 									.appendTo(contentUl);
 						}
 						array.splice(0, array.length);
@@ -137,6 +128,7 @@ $(document)
 					}
 					
 					
+					
 					$("#start").attr("disabled", "true");
 					$("#start").on("click", function() {
 						arrayLength = $("#arrayLength").val();
@@ -147,10 +139,10 @@ $(document)
 						}
 						getData();
 
-						$("#start").css({"width": "64px","height": "34px","padding":"0 1px","margin-right": "30px","font-size": "small"});
+						$("#start").css(startHide);
 						$("#start").attr("disabled", "true");
 						$("#stop").removeAttr("disabled");
-						$("#stop").css({"width": "100px","height": "60px","padding":"0 20px","margin-left": "30px","font-size": "large"});
+						$("#stop").css(stopShow);
 					});
 					
 					
@@ -179,9 +171,9 @@ $(document)
 													success : function(data) {
 														
 														$("#start").removeAttr("disabled");
-														$("#start").css({"width": "100px","height": "60px","padding":"0 20px","margin-right": "30px","font-size": "large"});
+														$("#start").css(startShow);
 														
-														$("#stop").css({"width": "64px","height": "34px","padding":"0 1px","margin-left": "30px","font-size": "small"});
+														$("#stop").css(stopHide);
 														$("#stop").attr("disabled", "true");
 														
 
@@ -200,7 +192,7 @@ $(document)
 															
 															if (nextPrize.prizeName != prize.prizeName) {
 																$("#next").removeAttr("disabled");
-																$("#start").css({"width": "64px","height": "34px","padding":"0 1px","margin-right": "30px","font-size": "small"});
+																$("#start").css(startHide);
 																$("#start").attr("disabled",true);
 															} else {
 																$("#next").removeAttr("disabled");
@@ -208,9 +200,9 @@ $(document)
 																$("#next").attr("disabled",true);
 															}
 														}else if(prizeCount == prizeData.length){
-															$("#start").css({"width": "64px","height": "34px","padding":"0 1px","margin-right": "30px","font-size": "small"});
+															$("#start").css(startHide);
 															$("#start").attr("disabled",true);
-															$("#stop").css({"width": "64px","height": "34px","padding":"0 1px","margin-left": "30px","font-size": "small"});
+															$("#stop").css(stopHide);
 															$("#stop").attr("disabled", "true");
 														}
 													}
