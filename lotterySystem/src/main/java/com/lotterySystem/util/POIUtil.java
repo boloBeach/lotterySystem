@@ -69,6 +69,7 @@ public class POIUtil {
 
 			HSSFSheet prizeSheet = wbook.getSheetAt(0);
 			int rows = prizeSheet.getLastRowNum();
+			rows= prizeSheet.getPhysicalNumberOfRows();
 			System.out.println("rows: " + rows);
 			for (int i = 1; i < rows; i++) {
 				HSSFRow prizeRow = prizeSheet.getRow(i);
