@@ -14,11 +14,11 @@ $(document)
 					$.ajax({
 						url : "getPrizeInfoServlet",
 						type : "post",
-						cache : true,
+						cache : false,
 						dataType : 'json',
 						data : {},
 						success : function(data) {
-							console.debug(data);
+							alert(data.length);
 							prizeData = data;
 						}
 					});
@@ -39,20 +39,14 @@ $(document)
 											currentRound = prize.round;
 											currentPrizeName = prize.prizeName;
 										}
-										if (currentPrizeName != null
-												&& currentPrizeName != prize.prizeName) {
-											if (currentPrizeLeft != 0) {
-												alert("当前奖品尚未抽取结束!");
-												return;
-											}
-										}
+										
 
 										currentPrize.html("Current Prize:<a class=\"group1\" href=\"./images/"
 														+ prize.prizePicName
 														+ "\" >"
 														+ prize.prizeName
 														+ "</a>");
-
+										console.debug("prizeCount: "+prizeCount+", prize.prizedPersonNum: "+prize.prizedPersonNum);
 										$("#arrayLength").val(prize.prizedPersonNum);
 										$("#round").val(prize.round);
 										$("#prizeName").val(prize.prizeName);
@@ -65,7 +59,7 @@ $(document)
 					var iCount;
 					var array = new Array();
 					var arrayLength;
-					var ids = new Array();
+					
 					// get random number
 					function getRandom(n) {
 						var rand = Math.floor(Math.random() * n + 1);
@@ -132,13 +126,13 @@ $(document)
 					
 					$("#start").attr("disabled", "true");
 					$("#start").on("click", function() {
+						if(prizeCount==27){
+							alert("No prize left!");
+							return;
+						}
 						arrayLength = $("#arrayLength").val();
 
 						var reg = new RegExp("^[0-9]*[1-9][0-9]*$");
-						if (arrayLength.match(reg) == null) {
-							alert("此类奖品已经抽完!,点击next,进行下一样奖品的抽取!");
-							return;
-						}
 						if (arrayLength == null || arrayLength == "") {
 							arrayLength == 1;
 						}
@@ -154,6 +148,7 @@ $(document)
 					$("#stop").on("click",function() {
 										clearInterval(iCount);
 										var allDivs = contentUl.find("div");
+										var ids = new Array();
 										for (var i = 0; i < allDivs.length; i++) {
 											var div = allDivs[i];
 											div = $(div);
@@ -168,7 +163,7 @@ $(document)
 													data : {
 														"ids" : ids.toString(),
 														round : $("#round").val(),
-														prizeNo :prizeData[prizeCount].prizeNo,
+														prizeNo :prizeData[prizeCount-1].prizeNo,
 														prizeName : $("#prizeName").val()
 													},
 													success : function(data) {
@@ -178,17 +173,19 @@ $(document)
 														$("#stop").css({"width": "64px","height": "34px","padding":"0 1px","margin-left": "30px","font-size": "small"});
 														$("#stop").attr("disabled", "true");
 														
-														var size = data.length;
-														if (size <= $("#arrayLength").val()) {
-															$("#arrayLength").val(size);
-														}
 
 														var prize = prizeData[prizeCount - 1];
 
 														currentPrizeLeft = currentPrizeLeft - prize.prizedPersonNum;
 														prize.prizedPersonNum = 0;
-														$("#arrayLength").val(prize.prizedPersonNum);
+														
 														var nextPrize = prizeData[prizeCount];
+														$("#arrayLength").val(nextPrize.prizedPersonNum);
+														var size = data.length;
+														if (size <= nextPrize.prizedPersonNum) {
+															$("#arrayLength").val(size);
+														}
+														
 														if (nextPrize.prizeName != prize.prizeName) {
 															$("#next").removeAttr("disabled");
 															$("#start").css({"width": "64px","height": "34px","padding":"0 1px","margin-right": "30px","font-size": "small"});
@@ -198,7 +195,6 @@ $(document)
 															$("#next").click();
 															$("#next").attr("disabled",true);
 														}
-														
 													}
 												});
 									});

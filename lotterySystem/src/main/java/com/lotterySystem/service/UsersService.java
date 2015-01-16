@@ -46,6 +46,6 @@ public class UsersService {
 	}
 
 	public void updatePrizeStatus(String prizeNo) {
-		
+		POIUtil.updatePrizeStatus(prizeNo);
 	}
 }

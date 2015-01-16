@@ -37,7 +37,7 @@ public class GetDataServlet extends HttpServlet {
 		String prizeNo = request.getParameter("prizeNo");
 		String prizeName = request.getParameter("prizeName");
 		//System.out.println("personIDs: " + personIDs);
-		//System.out.println("prizeType: " + round);
+		System.out.println("prizeNo: " + prizeNo);
 
 		String[] ids = null;
 		if (personIDs != null) {

@@ -30,6 +30,8 @@ public class GetPrizeInfoServlet extends HttpServlet {
 		PrintWriter out = resp.getWriter();
 		Gson gson = new Gson();
 		 List<PrizeInfoBean> readXls = POIUtil.readXls();
+		 
+		 System.out.println(readXls.size());
 		out.write(gson.toJson(readXls));
 		out.close();
 

@@ -61,7 +61,7 @@ public class POIUtil {
 				e.printStackTrace();
 			}
 		}
-
+		System.out.println("realPath: "+realPath);
 		HSSFWorkbook wbook = null;
 		try {
 			InputStream in = new FileInputStream(file);
@@ -69,10 +69,11 @@ public class POIUtil {
 
 			HSSFSheet prizeSheet = wbook.getSheetAt(0);
 			int rows = prizeSheet.getLastRowNum();
-
+			System.out.println("rows: " + rows);
 			for (int i = 1; i < rows; i++) {
 				HSSFRow prizeRow = prizeSheet.getRow(i);
 				short cells = prizeRow.getLastCellNum();
+				System.out.println("cells: " + cells);
 
 				PrizeInfoBean prizeInfoBean = new PrizeInfoBean();
 				for (int j = 0; j < cells; j++) {
@@ -81,6 +82,7 @@ public class POIUtil {
 
 					if (HSSFCell.CELL_TYPE_NUMERIC == cellType) {
 						double value = prizeCell.getNumericCellValue();
+
 						if (j == 0) {
 							prizeInfoBean.setRound(String.valueOf(value));
 						} else if (j == 3) {
@@ -90,9 +92,11 @@ public class POIUtil {
 						} else if (j == 5) {
 							prizeInfoBean.setPrizeNo(String.valueOf(value));
 						} else if (j == 6) {
-							if (value == 0) {
+							Double d= Double.valueOf(value);
+							int intValue = d.intValue();
+							if (intValue == 0) {
 								prizeInfoBean.setPrizeStatus(0);
-							} else if (value == 1) {
+							} else if (intValue == 1) {
 								prizeInfoBean.setPrizeStatus(1);
 							}
 						}
@@ -116,6 +120,42 @@ public class POIUtil {
 			e.printStackTrace();
 		}
 		return prizeInfoBeanList;
+	}
+
+	public static void updatePrizeStatus(String prizeNo) {
+		String path = Thread.currentThread().getContextClassLoader()
+				.getResource("").getPath();
+		String realPath = path + prizeXlsName;
+		File file = new File(realPath);
+		if (!file.exists()) {
+			try {
+				throw new FileNotFoundException("file doesn't found!");
+			} catch (FileNotFoundException e) {
+				e.printStackTrace();
+			}
+		}
+		System.out.println("PeizeInfoExcel: " + realPath);
+		HSSFWorkbook wbook = null;
+		try {
+			InputStream in = new FileInputStream(file);
+			wbook = new HSSFWorkbook(in);
+
+			HSSFSheet prizeSheet = wbook.getSheetAt(0);
+			Double doubleValue = Double.valueOf(prizeNo);
+			int intValue = doubleValue.intValue();
+			System.out.println("Update row: " + intValue);
+			HSSFRow row = prizeSheet.getRow(intValue);
+			HSSFCell cell = row.getCell(6);
+			cell.setCellValue(1);
+
+			OutputStream out = new FileOutputStream(file);
+
+			wbook.write(out);
+			wbook.close();
+
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 	}
 
 	/**
@@ -277,4 +317,5 @@ public class POIUtil {
 			e.printStackTrace();
 		}
 	}
+
 }
