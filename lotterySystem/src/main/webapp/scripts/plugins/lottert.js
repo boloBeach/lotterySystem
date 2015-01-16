@@ -24,7 +24,7 @@ $(document)
 					});
 
 					$("#next").on("click",function() {
-										if(prizeCount==0||(prizeCount>0&&prizeData[prizeCount]==(prizeData[prizeCount-1].round+1))){
+										if(prizeCount==0||(prizeCount>0&&prizeData[prizeCount].round==(prizeData[prizeCount-1].round+1))){
 											alert("第"+prizeData[prizeCount].round+"轮抽奖即将开始!");
 										}
 						
