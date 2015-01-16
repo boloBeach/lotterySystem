@@ -338,3 +338,19 @@ em {
     box-shadow: inset -1px 1px 5px 2px #444444, inset 1px -1px 5px 2px #E84650, 0 0 0px 0 #ff3333;
   }
 }
+/*this is show img*/
+.image-show {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+    background: rgba(0, 0, 0, 0.9);
+    display: none;
+}
+.image-show img{
+	clear: both; 
+	display: block; 
+	margin:auto;
+}

@@ -22,7 +22,10 @@ $(document)
 							prizeData = data;
 						}
 					});
-
+					var imageShow = $(".image-show");
+					imageShow.find("img").on("click",function(){
+						 imageShow.hide();
+					});
 					$("#next").on("click",function() {
 										if(prizeCount==0||(prizeCount>0&&prizeData[prizeCount].round==(prizeData[prizeCount-1].round+1))){
 											alert("第"+prizeData[prizeCount].round+"轮抽奖即将开始!");
@@ -31,13 +34,13 @@ $(document)
 									    $("#start").removeAttr("disabled");
 									    $("#start").css({"width": "100px","height": "60px","padding":"0 20px","margin-right": "30px","font-size": "large"});
 										$("#next").attr("disabled", true);
+										
 										if (prizeCount >= prizeData.length) {
 											alert("No prize left");
 											return;
 										}
 										var prize = prizeData[prizeCount];
-										if (currentPrizeTotal == -1
-												|| currentPrizeLeft == 0) {
+										if (currentPrizeTotal == -1 || currentPrizeLeft == 0) {
 											currentPrizeTotal = prize.prizeTotal;
 											currentPrizeLeft = currentPrizeTotal;
 											currentRound = prize.round;
@@ -50,6 +53,12 @@ $(document)
 														+ "\" >"
 														+ prize.prizeName
 														+ "</a>");
+										imageShow.show();
+										imageShow.find("img").attr('style', '').attr("title","点击图片关闭").attr('src', "./images/"+prize.prizePicName).animate({
+							                width: "90%",
+							                height: "90%",
+							                opacity: 1
+							            })
 										console.debug("prizeCount: "+prizeCount+", prize.prizedPersonNum: "+prize.prizedPersonNum);
 										$("#arrayLength").val(prize.prizedPersonNum);
 										$("#round").val(prize.round);
@@ -144,6 +153,7 @@ $(document)
 						$("#stop").css({"width": "100px","height": "60px","padding":"0 20px","margin-left": "30px","font-size": "large"});
 					});
 					
+					
 					$("#stop").attr("disabled", "true");
 					$("#stop").on("click",function() {
 										clearInterval(iCount);
@@ -167,6 +177,7 @@ $(document)
 														prizeName : $("#prizeName").val()
 													},
 													success : function(data) {
+														
 														$("#start").removeAttr("disabled");
 														$("#start").css({"width": "100px","height": "60px","padding":"0 20px","margin-right": "30px","font-size": "large"});
 														
@@ -178,6 +189,7 @@ $(document)
 
 														currentPrizeLeft = currentPrizeLeft - prize.prizedPersonNum;
 														prize.prizedPersonNum = 0;
+														
 														if(prizeCount < prizeData.length){
 															var nextPrize = prizeData[prizeCount];
 															$("#arrayLength").val(nextPrize.prizedPersonNum);
