@@ -32,9 +32,6 @@ $(document).ready(function() {
 					});
 					
 					$("#next").on("click",function() {
-										if(prizeCount==0||(prizeCount>0&&prizeData[prizeCount].round==(prizeData[prizeCount-1].round+1))){
-											alert("第"+prizeData[prizeCount].round+"轮抽奖即将开始!");
-										}
 										if(prizeCount==0||(prizeCount>0&&prizeData[prizeCount].prizeName!=prizeData[prizeCount-1].prizeName)){
 											imageShow.show();
 											imageShow.find("img").attr('style', '').attr("title","点击图片关闭").attr('src', "images/"+prizeData[prizeCount].prizePicName).animate({
@@ -60,14 +57,15 @@ $(document).ready(function() {
 										}
 										
 
-										currentPrize.html("Current Prize:<a class=\"group1\" href=\"./images/"+ prize.prizePicName+ "\" >"+ prize.prizeName+ "</a>");
+										currentPrize.html("Current Prize:<a id=\""+prizeData[prizeCount].prizeName+"\" >"+ prize.prizeName+ "</a>");
+										
 										$("#arrayLength").val(prize.prizedPersonNum);
 										$("#round").val(prize.round);
 										$("#prizeName").val(prize.prizeName);
-
+										
 										prizeCount++;
 									});
-
+					
 					// --------------------
 					var cacheData;
 					var iCount;
