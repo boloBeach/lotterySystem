@@ -3,10 +3,13 @@ package com.lotterySystem.util;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Properties;
 import java.util.Set;
 
 import org.jdom.Document;
@@ -40,7 +43,30 @@ public class XmlUtil {
 	public XmlUtil(String xmlFile) {
 		setXmlFile(xmlFile);
 	}
-
+	
+	
+	public static String[] prizeNames;
+	public static Properties p = new Properties();
+	static {
+		//load the prize names configured in the properties file
+		InputStream inputStream = Thread.currentThread().getContextClassLoader().getResourceAsStream("prizeInfo.properties");
+		try {
+			p.load(inputStream);
+			String pValue = p.getProperty("prizeNames");
+			System.out.println("Properties from properties file: "+pValue);
+			
+			prizeNames = pValue.split(",");
+			
+			System.out.println("prizeNames: "+Arrays.asList(prizeNames));
+			
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+	public static void main(String[] args) {
+		
+	}
+	
 	public Document readDocument() {
 		SAXBuilder builder = new SAXBuilder();
 		try {
@@ -163,12 +189,14 @@ public class XmlUtil {
 			elementId = record.getChild("id");
 			if (id.trim().equals(elementId.getText().trim())) {
 				record.getChild("is_delete").setText(isDelete);
-				
+
 				Element prizeTypeEl = record.getChild("prize_type");
 				String prizeString = prizeTypeEl.getText().toString();
-				if(Constants.BIG_AWARD_NAME.equals(prizeString)&&!prizeType.equals(prizeString)){
-					record.getChild("prize_type").setText(prizeString+","+prizeType);
-				}else{
+				if (Constants.BIG_AWARD_NAME.equals(prizeString)
+						&& !prizeType.equals(prizeString)) {
+					record.getChild("prize_type").setText(
+							prizeString + "," + prizeType);
+				} else {
 					record.getChild("prize_type").setText(prizeType);
 				}
 				XMLOutputter xmlOutputter = new XMLOutputter();
@@ -177,9 +205,8 @@ public class XmlUtil {
 		}
 
 	}
-	public static final String[] prizeNames = { "prize 1", "prize 2", "prize 3", "prize 4",
-			"prize 5", "prize 6", "prize 7", "prize 8", "prize 9",
-			"prize 10", "prize 11", "prize 12",Constants.BIG_AWARD_NAME};
+
+
 	private static Map<String, List<UsersBean>> initPrizeLevelAndUsersBeanListMap() {
 		Map<String, List<UsersBean>> resultMap = new HashMap<String, List<UsersBean>>();
 		for (int i = 0; i < prizeNames.length; i++) {
@@ -218,15 +245,15 @@ public class XmlUtil {
 
 			boolean contains = false;
 			String text2 = prizeType.getText();
-			if(text2!=null){
+			if (text2 != null) {
 				for (String pName : prizeNames) {
-					if(text2.contains(pName)){
+					if (text2.contains(pName)) {
 						contains = true;
 						break;
 					}
 				}
 			}
-			
+
 			if (!StringUtil.isNull(prizeType.getText()) && contains) {
 				id = recod.getChild("id");
 				englishName = recod.getChild("english_name");
@@ -241,12 +268,11 @@ public class XmlUtil {
 				usersBean.setUserImg(userImg.getText());
 				usersBean.setPrizeType(prizeType.getText());
 				usersBean.setLastName(lastName.getText());
-				
+
 				String text = prizeType.getText();
-				if(text!=null&&text.contains(Constants.BIG_AWARD_NAME)){
+				if (text != null && text.contains(Constants.BIG_AWARD_NAME)) {
 					text = Constants.BIG_AWARD_NAME;
 				}
-				System.out.println("text: "+text);
 				List<UsersBean> list = resultMap.get(text);
 				list.add(usersBean);
 			}

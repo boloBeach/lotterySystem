@@ -41,9 +41,9 @@ $(document).ready(function(){
 				
 				bigawardNode.css("background-color", "red");
 				showAward.show();
-				showAward.find("div").css("background-color","#DEF3CA").html(bigawardNode.html()).animate({
-					width: "90%",
-					height: "90%",
+				showAward.find("div").css("background-color","#DEF3CA").html("<p>Congratulation!</p> "+bigawardNode.html()).animate({
+					width: "70%",
+					height: "80%",
 					opacity: 1
 				},2000);
 			}
@@ -106,9 +106,9 @@ $(document).ready(function(){
 				
 				bigawardNode.css("background-color", "red");
 				showAward.show();
-				showAward.find("div").css("background-color","#DEF3CA").html(bigawardNode.html()).animate({
-					width: "90%",
-					height: "90%",
+				showAward.find("div").css("background-color","#DEF3CA").html("<p>Congratulation!</p> "+bigawardNode.html()).animate({
+					width: "70%",
+					height: "80%",
 					opacity: 1
 				},2000);
 			}
