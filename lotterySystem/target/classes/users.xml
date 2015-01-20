@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" standalone="yes"?>
 <RECORDS>
 <RECORD>
 <id>CDH0001</id>
@@ -6,8 +6,8 @@
 <last_name>Ni</last_name>
 <chinese_name>尼克尔</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 10:39:45</modifi_time>
 </RECORD>
 <RECORD>
@@ -16,7 +16,7 @@
 <last_name>Shan</last_name>
 <chinese_name>闪迪</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 10:40:11</modifi_time>
 </RECORD>
@@ -26,8 +26,8 @@
 <last_name>Lin</last_name>
 <chinese_name>林璟</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 10:40:38</modifi_time>
 </RECORD>
 <RECORD>
@@ -36,7 +36,7 @@
 <last_name>Cha</last_name>
 <chinese_name>查尔斯</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 10:40:57</modifi_time>
 </RECORD>
@@ -46,7 +46,7 @@
 <last_name>Duc</last_name>
 <chinese_name>duc</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 10:41:08</modifi_time>
 </RECORD>
@@ -56,8 +56,8 @@
 <last_name>Chen</last_name>
 <chinese_name>陈瑶</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 10:41:24</modifi_time>
 </RECORD>
 <RECORD>
@@ -66,8 +66,8 @@
 <last_name>Tan</last_name>
 <chinese_name>谭秀江</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 6</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 10:41:38</modifi_time>
 </RECORD>
 <RECORD>
@@ -76,8 +76,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang008</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:09</modifi_time>
 </RECORD>
 <RECORD>
@@ -86,8 +86,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang009</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:09</modifi_time>
 </RECORD>
 <RECORD>
@@ -96,7 +96,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang010</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:10</modifi_time>
 </RECORD>
@@ -106,8 +106,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang011</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 6</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:10</modifi_time>
 </RECORD>
 <RECORD>
@@ -116,8 +116,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang012</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:10</modifi_time>
 </RECORD>
 <RECORD>
@@ -126,7 +126,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang013</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:10</modifi_time>
 </RECORD>
@@ -136,7 +136,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang014</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:10</modifi_time>
 </RECORD>
@@ -146,8 +146,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang015</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:10</modifi_time>
 </RECORD>
 <RECORD>
@@ -156,8 +156,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang016</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:10</modifi_time>
 </RECORD>
 <RECORD>
@@ -166,8 +166,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang017</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 2</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:10</modifi_time>
 </RECORD>
 <RECORD>
@@ -176,8 +176,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang018</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:10</modifi_time>
 </RECORD>
 <RECORD>
@@ -186,8 +186,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang019</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:10</modifi_time>
 </RECORD>
 <RECORD>
@@ -196,8 +196,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang020</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 2</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:10</modifi_time>
 </RECORD>
 <RECORD>
@@ -206,8 +206,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang021</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 6</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:10</modifi_time>
 </RECORD>
 <RECORD>
@@ -216,7 +216,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang022</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:10</modifi_time>
 </RECORD>
@@ -226,8 +226,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang023</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:10</modifi_time>
 </RECORD>
 <RECORD>
@@ -236,7 +236,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang024</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:10</modifi_time>
 </RECORD>
@@ -246,8 +246,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang025</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:10</modifi_time>
 </RECORD>
 <RECORD>
@@ -256,7 +256,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang026</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:10</modifi_time>
 </RECORD>
@@ -266,7 +266,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang027</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:11</modifi_time>
 </RECORD>
@@ -276,7 +276,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang028</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:11</modifi_time>
 </RECORD>
@@ -286,8 +286,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang029</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:11</modifi_time>
 </RECORD>
 <RECORD>
@@ -296,8 +296,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang030</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:11</modifi_time>
 </RECORD>
 <RECORD>
@@ -306,8 +306,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang031</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:11</modifi_time>
 </RECORD>
 <RECORD>
@@ -316,8 +316,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang032</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:11</modifi_time>
 </RECORD>
 <RECORD>
@@ -326,8 +326,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang033</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:11</modifi_time>
 </RECORD>
 <RECORD>
@@ -336,8 +336,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang034</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:11</modifi_time>
 </RECORD>
 <RECORD>
@@ -346,7 +346,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang035</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:11</modifi_time>
 </RECORD>
@@ -356,8 +356,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang036</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:12</modifi_time>
 </RECORD>
 <RECORD>
@@ -366,8 +366,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang037</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:12</modifi_time>
 </RECORD>
 <RECORD>
@@ -376,7 +376,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang038</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:12</modifi_time>
 </RECORD>
@@ -386,8 +386,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang039</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:12</modifi_time>
 </RECORD>
 <RECORD>
@@ -396,7 +396,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang040</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:12</modifi_time>
 </RECORD>
@@ -406,8 +406,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang041</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:12</modifi_time>
 </RECORD>
 <RECORD>
@@ -416,7 +416,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang042</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:12</modifi_time>
 </RECORD>
@@ -426,8 +426,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang043</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:12</modifi_time>
 </RECORD>
 <RECORD>
@@ -436,7 +436,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang044</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:12</modifi_time>
 </RECORD>
@@ -446,8 +446,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang045</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:12</modifi_time>
 </RECORD>
 <RECORD>
@@ -456,7 +456,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang046</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:12</modifi_time>
 </RECORD>
@@ -466,8 +466,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang047</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 3</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:12</modifi_time>
 </RECORD>
 <RECORD>
@@ -476,8 +476,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang048</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 2</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:12</modifi_time>
 </RECORD>
 <RECORD>
@@ -486,7 +486,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang049</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:12</modifi_time>
 </RECORD>
@@ -496,8 +496,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang050</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:12</modifi_time>
 </RECORD>
 <RECORD>
@@ -506,8 +506,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang051</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:13</modifi_time>
 </RECORD>
 <RECORD>
@@ -516,7 +516,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang052</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:13</modifi_time>
 </RECORD>
@@ -526,8 +526,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang053</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 6</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:13</modifi_time>
 </RECORD>
 <RECORD>
@@ -536,8 +536,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang054</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:13</modifi_time>
 </RECORD>
 <RECORD>
@@ -546,8 +546,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang055</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:13</modifi_time>
 </RECORD>
 <RECORD>
@@ -556,8 +556,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang056</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:13</modifi_time>
 </RECORD>
 <RECORD>
@@ -566,8 +566,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang057</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:13</modifi_time>
 </RECORD>
 <RECORD>
@@ -576,8 +576,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang058</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:13</modifi_time>
 </RECORD>
 <RECORD>
@@ -586,8 +586,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang059</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:13</modifi_time>
 </RECORD>
 <RECORD>
@@ -596,7 +596,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang060</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:13</modifi_time>
 </RECORD>
@@ -606,7 +606,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang061</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:13</modifi_time>
 </RECORD>
@@ -616,7 +616,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang062</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:13</modifi_time>
 </RECORD>
@@ -626,8 +626,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang063</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:13</modifi_time>
 </RECORD>
 <RECORD>
@@ -636,8 +636,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang064</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:13</modifi_time>
 </RECORD>
 <RECORD>
@@ -646,8 +646,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang065</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:13</modifi_time>
 </RECORD>
 <RECORD>
@@ -656,8 +656,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang066</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:14</modifi_time>
 </RECORD>
 <RECORD>
@@ -666,8 +666,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang067</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:14</modifi_time>
 </RECORD>
 <RECORD>
@@ -676,8 +676,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang068</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 2</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:14</modifi_time>
 </RECORD>
 <RECORD>
@@ -686,7 +686,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang069</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:14</modifi_time>
 </RECORD>
@@ -696,7 +696,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang070</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:14</modifi_time>
 </RECORD>
@@ -706,7 +706,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang071</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:14</modifi_time>
 </RECORD>
@@ -716,8 +716,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang072</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:14</modifi_time>
 </RECORD>
 <RECORD>
@@ -726,8 +726,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang073</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:14</modifi_time>
 </RECORD>
 <RECORD>
@@ -736,7 +736,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang074</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:14</modifi_time>
 </RECORD>
@@ -746,7 +746,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang075</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:14</modifi_time>
 </RECORD>
@@ -756,8 +756,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang076</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:14</modifi_time>
 </RECORD>
 <RECORD>
@@ -766,8 +766,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang077</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 2</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:14</modifi_time>
 </RECORD>
 <RECORD>
@@ -776,8 +776,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang078</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 2</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:14</modifi_time>
 </RECORD>
 <RECORD>
@@ -786,7 +786,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang079</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:14</modifi_time>
 </RECORD>
@@ -796,7 +796,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang080</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:15</modifi_time>
 </RECORD>
@@ -806,7 +806,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang081</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:15</modifi_time>
 </RECORD>
@@ -816,8 +816,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang082</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:15</modifi_time>
 </RECORD>
 <RECORD>
@@ -826,7 +826,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang083</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:15</modifi_time>
 </RECORD>
@@ -836,8 +836,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang084</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 6</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:15</modifi_time>
 </RECORD>
 <RECORD>
@@ -846,8 +846,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang085</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:15</modifi_time>
 </RECORD>
 <RECORD>
@@ -856,8 +856,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang086</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:15</modifi_time>
 </RECORD>
 <RECORD>
@@ -866,7 +866,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang087</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:15</modifi_time>
 </RECORD>
@@ -876,8 +876,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang088</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:15</modifi_time>
 </RECORD>
 <RECORD>
@@ -886,8 +886,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang089</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:15</modifi_time>
 </RECORD>
 <RECORD>
@@ -896,8 +896,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang090</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:15</modifi_time>
 </RECORD>
 <RECORD>
@@ -906,8 +906,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang091</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:15</modifi_time>
 </RECORD>
 <RECORD>
@@ -916,7 +916,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang092</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:15</modifi_time>
 </RECORD>
@@ -926,8 +926,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang093</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:15</modifi_time>
 </RECORD>
 <RECORD>
@@ -936,7 +936,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang094</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:15</modifi_time>
 </RECORD>
@@ -946,7 +946,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang095</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:15</modifi_time>
 </RECORD>
@@ -956,7 +956,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang096</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:16</modifi_time>
 </RECORD>
@@ -966,8 +966,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang097</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:16</modifi_time>
 </RECORD>
 <RECORD>
@@ -976,7 +976,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang098</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:16</modifi_time>
 </RECORD>
@@ -986,7 +986,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang099</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:16</modifi_time>
 </RECORD>
@@ -996,8 +996,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang100</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:16</modifi_time>
 </RECORD>
 <RECORD>
@@ -1006,8 +1006,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang101</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:16</modifi_time>
 </RECORD>
 <RECORD>
@@ -1016,8 +1016,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang102</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:16</modifi_time>
 </RECORD>
 <RECORD>
@@ -1026,8 +1026,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang103</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:16</modifi_time>
 </RECORD>
 <RECORD>
@@ -1036,8 +1036,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang104</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:16</modifi_time>
 </RECORD>
 <RECORD>
@@ -1046,8 +1046,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang105</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:16</modifi_time>
 </RECORD>
 <RECORD>
@@ -1056,8 +1056,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang106</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:16</modifi_time>
 </RECORD>
 <RECORD>
@@ -1066,8 +1066,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang107</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 6</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:16</modifi_time>
 </RECORD>
 <RECORD>
@@ -1076,8 +1076,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang108</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:16</modifi_time>
 </RECORD>
 <RECORD>
@@ -1086,7 +1086,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang109</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:17</modifi_time>
 </RECORD>
@@ -1096,8 +1096,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang110</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:17</modifi_time>
 </RECORD>
 <RECORD>
@@ -1106,8 +1106,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang111</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:17</modifi_time>
 </RECORD>
 <RECORD>
@@ -1116,8 +1116,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang112</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 6</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:17</modifi_time>
 </RECORD>
 <RECORD>
@@ -1126,8 +1126,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang113</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:17</modifi_time>
 </RECORD>
 <RECORD>
@@ -1136,8 +1136,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang114</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:17</modifi_time>
 </RECORD>
 <RECORD>
@@ -1146,8 +1146,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang115</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 2</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:17</modifi_time>
 </RECORD>
 <RECORD>
@@ -1156,7 +1156,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang116</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:17</modifi_time>
 </RECORD>
@@ -1166,7 +1166,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang117</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:17</modifi_time>
 </RECORD>
@@ -1176,8 +1176,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang118</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:17</modifi_time>
 </RECORD>
 <RECORD>
@@ -1186,7 +1186,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang119</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:17</modifi_time>
 </RECORD>
@@ -1196,8 +1196,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang120</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:17</modifi_time>
 </RECORD>
 <RECORD>
@@ -1206,8 +1206,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang121</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 2</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:17</modifi_time>
 </RECORD>
 <RECORD>
@@ -1216,8 +1216,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang122</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:17</modifi_time>
 </RECORD>
 <RECORD>
@@ -1226,7 +1226,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang123</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:17</modifi_time>
 </RECORD>
@@ -1236,7 +1236,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang124</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:18</modifi_time>
 </RECORD>
@@ -1246,8 +1246,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang125</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 6</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:18</modifi_time>
 </RECORD>
 <RECORD>
@@ -1256,7 +1256,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang126</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:18</modifi_time>
 </RECORD>
@@ -1266,7 +1266,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang127</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:18</modifi_time>
 </RECORD>
@@ -1276,8 +1276,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang128</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:18</modifi_time>
 </RECORD>
 <RECORD>
@@ -1286,8 +1286,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang129</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:18</modifi_time>
 </RECORD>
 <RECORD>
@@ -1296,8 +1296,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang130</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 2</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:18</modifi_time>
 </RECORD>
 <RECORD>
@@ -1306,7 +1306,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang131</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:18</modifi_time>
 </RECORD>
@@ -1316,8 +1316,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang132</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 2</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:18</modifi_time>
 </RECORD>
 <RECORD>
@@ -1326,8 +1326,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang133</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:18</modifi_time>
 </RECORD>
 <RECORD>
@@ -1336,8 +1336,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang134</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:18</modifi_time>
 </RECORD>
 <RECORD>
@@ -1346,7 +1346,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang135</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:18</modifi_time>
 </RECORD>
@@ -1356,7 +1356,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang136</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:18</modifi_time>
 </RECORD>
@@ -1366,8 +1366,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang137</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:18</modifi_time>
 </RECORD>
 <RECORD>
@@ -1376,7 +1376,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang138</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:18</modifi_time>
 </RECORD>
@@ -1386,7 +1386,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang139</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:19</modifi_time>
 </RECORD>
@@ -1396,8 +1396,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang140</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:19</modifi_time>
 </RECORD>
 <RECORD>
@@ -1406,8 +1406,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang141</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 2</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:19</modifi_time>
 </RECORD>
 <RECORD>
@@ -1416,7 +1416,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang142</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:19</modifi_time>
 </RECORD>
@@ -1426,8 +1426,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang143</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:19</modifi_time>
 </RECORD>
 <RECORD>
@@ -1436,7 +1436,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang144</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:19</modifi_time>
 </RECORD>
@@ -1446,8 +1446,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang145</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:19</modifi_time>
 </RECORD>
 <RECORD>
@@ -1456,8 +1456,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang146</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 2</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:19</modifi_time>
 </RECORD>
 <RECORD>
@@ -1466,8 +1466,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang147</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:19</modifi_time>
 </RECORD>
 <RECORD>
@@ -1476,7 +1476,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang148</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:19</modifi_time>
 </RECORD>
@@ -1486,8 +1486,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang149</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:19</modifi_time>
 </RECORD>
 <RECORD>
@@ -1496,8 +1496,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang150</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:19</modifi_time>
 </RECORD>
 <RECORD>
@@ -1506,8 +1506,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang151</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:19</modifi_time>
 </RECORD>
 <RECORD>
@@ -1516,8 +1516,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang152</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 6</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:19</modifi_time>
 </RECORD>
 <RECORD>
@@ -1526,8 +1526,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang153</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 2</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:19</modifi_time>
 </RECORD>
 <RECORD>
@@ -1536,8 +1536,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang154</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:20</modifi_time>
 </RECORD>
 <RECORD>
@@ -1546,8 +1546,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang155</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:20</modifi_time>
 </RECORD>
 <RECORD>
@@ -1556,8 +1556,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang156</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 3</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:20</modifi_time>
 </RECORD>
 <RECORD>
@@ -1566,8 +1566,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang157</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:20</modifi_time>
 </RECORD>
 <RECORD>
@@ -1576,8 +1576,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang158</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:20</modifi_time>
 </RECORD>
 <RECORD>
@@ -1586,8 +1586,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang159</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 2</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:20</modifi_time>
 </RECORD>
 <RECORD>
@@ -1596,7 +1596,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang160</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:20</modifi_time>
 </RECORD>
@@ -1606,8 +1606,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang161</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 6</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:20</modifi_time>
 </RECORD>
 <RECORD>
@@ -1616,7 +1616,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang162</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:20</modifi_time>
 </RECORD>
@@ -1626,8 +1626,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang163</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:20</modifi_time>
 </RECORD>
 <RECORD>
@@ -1636,8 +1636,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang164</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:20</modifi_time>
 </RECORD>
 <RECORD>
@@ -1646,8 +1646,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang165</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:20</modifi_time>
 </RECORD>
 <RECORD>
@@ -1656,8 +1656,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang166</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 2</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:20</modifi_time>
 </RECORD>
 <RECORD>
@@ -1666,7 +1666,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang167</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:21</modifi_time>
 </RECORD>
@@ -1676,8 +1676,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang168</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:21</modifi_time>
 </RECORD>
 <RECORD>
@@ -1686,8 +1686,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang169</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 6</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:21</modifi_time>
 </RECORD>
 <RECORD>
@@ -1696,7 +1696,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang170</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:21</modifi_time>
 </RECORD>
@@ -1706,8 +1706,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang171</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 6</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:21</modifi_time>
 </RECORD>
 <RECORD>
@@ -1716,8 +1716,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang172</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:21</modifi_time>
 </RECORD>
 <RECORD>
@@ -1726,7 +1726,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang173</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:21</modifi_time>
 </RECORD>
@@ -1736,7 +1736,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang174</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:21</modifi_time>
 </RECORD>
@@ -1746,8 +1746,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang175</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:21</modifi_time>
 </RECORD>
 <RECORD>
@@ -1756,8 +1756,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang176</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:21</modifi_time>
 </RECORD>
 <RECORD>
@@ -1766,8 +1766,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang177</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:22</modifi_time>
 </RECORD>
 <RECORD>
@@ -1776,7 +1776,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang178</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:22</modifi_time>
 </RECORD>
@@ -1786,7 +1786,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang179</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:22</modifi_time>
 </RECORD>
@@ -1796,7 +1796,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang180</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:22</modifi_time>
 </RECORD>
@@ -1806,7 +1806,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang181</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:22</modifi_time>
 </RECORD>
@@ -1816,7 +1816,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang182</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:22</modifi_time>
 </RECORD>
@@ -1826,8 +1826,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang183</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 6</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:22</modifi_time>
 </RECORD>
 <RECORD>
@@ -1836,8 +1836,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang184</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:22</modifi_time>
 </RECORD>
 <RECORD>
@@ -1846,8 +1846,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang185</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:22</modifi_time>
 </RECORD>
 <RECORD>
@@ -1856,8 +1856,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang186</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:22</modifi_time>
 </RECORD>
 <RECORD>
@@ -1866,8 +1866,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang187</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:22</modifi_time>
 </RECORD>
 <RECORD>
@@ -1876,8 +1876,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang188</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 3</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:22</modifi_time>
 </RECORD>
 <RECORD>
@@ -1886,7 +1886,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang189</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:22</modifi_time>
 </RECORD>
@@ -1896,8 +1896,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang190</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 6</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:22</modifi_time>
 </RECORD>
 <RECORD>
@@ -1906,8 +1906,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang191</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:22</modifi_time>
 </RECORD>
 <RECORD>
@@ -1916,8 +1916,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang192</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 6</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:23</modifi_time>
 </RECORD>
 <RECORD>
@@ -1926,8 +1926,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang193</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:23</modifi_time>
 </RECORD>
 <RECORD>
@@ -1936,8 +1936,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang194</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:23</modifi_time>
 </RECORD>
 <RECORD>
@@ -1946,8 +1946,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang195</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 6</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:23</modifi_time>
 </RECORD>
 <RECORD>
@@ -1956,7 +1956,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang196</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:23</modifi_time>
 </RECORD>
@@ -1966,7 +1966,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang197</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:23</modifi_time>
 </RECORD>
@@ -1976,8 +1976,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang198</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:23</modifi_time>
 </RECORD>
 <RECORD>
@@ -1986,8 +1986,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang199</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:23</modifi_time>
 </RECORD>
 <RECORD>
@@ -1996,7 +1996,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang200</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:23</modifi_time>
 </RECORD>
@@ -2006,7 +2006,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang201</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:23</modifi_time>
 </RECORD>
@@ -2016,8 +2016,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang202</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:23</modifi_time>
 </RECORD>
 <RECORD>
@@ -2026,7 +2026,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang203</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:23</modifi_time>
 </RECORD>
@@ -2036,8 +2036,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang204</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 2</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:23</modifi_time>
 </RECORD>
 <RECORD>
@@ -2046,7 +2046,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang205</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:23</modifi_time>
 </RECORD>
@@ -2056,7 +2056,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang206</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:23</modifi_time>
 </RECORD>
@@ -2066,8 +2066,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang207</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 2</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:24</modifi_time>
 </RECORD>
 <RECORD>
@@ -2076,8 +2076,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang208</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:24</modifi_time>
 </RECORD>
 <RECORD>
@@ -2086,8 +2086,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang209</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 2</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:24</modifi_time>
 </RECORD>
 <RECORD>
@@ -2096,8 +2096,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang210</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:24</modifi_time>
 </RECORD>
 <RECORD>
@@ -2106,7 +2106,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang211</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:24</modifi_time>
 </RECORD>
@@ -2116,8 +2116,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang212</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:24</modifi_time>
 </RECORD>
 <RECORD>
@@ -2126,8 +2126,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang213</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:24</modifi_time>
 </RECORD>
 <RECORD>
@@ -2136,7 +2136,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang214</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:24</modifi_time>
 </RECORD>
@@ -2146,8 +2146,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang215</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:24</modifi_time>
 </RECORD>
 <RECORD>
@@ -2156,8 +2156,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang216</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:24</modifi_time>
 </RECORD>
 <RECORD>
@@ -2166,8 +2166,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang217</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 4</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:24</modifi_time>
 </RECORD>
 <RECORD>
@@ -2176,7 +2176,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang218</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:24</modifi_time>
 </RECORD>
@@ -2186,7 +2186,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang219</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:24</modifi_time>
 </RECORD>
@@ -2196,8 +2196,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang220</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:24</modifi_time>
 </RECORD>
 <RECORD>
@@ -2206,8 +2206,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang221</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 6</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:25</modifi_time>
 </RECORD>
 <RECORD>
@@ -2216,8 +2216,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang222</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:25</modifi_time>
 </RECORD>
 <RECORD>
@@ -2226,8 +2226,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang223</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 2</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:25</modifi_time>
 </RECORD>
 <RECORD>
@@ -2236,7 +2236,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang224</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:25</modifi_time>
 </RECORD>
@@ -2246,7 +2246,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang225</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:25</modifi_time>
 </RECORD>
@@ -2256,8 +2256,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang226</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 6</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:25</modifi_time>
 </RECORD>
 <RECORD>
@@ -2266,7 +2266,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang227</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:25</modifi_time>
 </RECORD>
@@ -2276,8 +2276,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang228</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:25</modifi_time>
 </RECORD>
 <RECORD>
@@ -2286,7 +2286,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang229</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:25</modifi_time>
 </RECORD>
@@ -2296,7 +2296,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang230</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:25</modifi_time>
 </RECORD>
@@ -2306,8 +2306,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang231</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:25</modifi_time>
 </RECORD>
 <RECORD>
@@ -2316,8 +2316,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang232</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 6</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:25</modifi_time>
 </RECORD>
 <RECORD>
@@ -2326,8 +2326,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang233</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:25</modifi_time>
 </RECORD>
 <RECORD>
@@ -2336,8 +2336,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang234</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 6</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:25</modifi_time>
 </RECORD>
 <RECORD>
@@ -2346,8 +2346,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang235</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:26</modifi_time>
 </RECORD>
 <RECORD>
@@ -2356,8 +2356,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang236</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:26</modifi_time>
 </RECORD>
 <RECORD>
@@ -2366,7 +2366,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang237</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:26</modifi_time>
 </RECORD>
@@ -2376,7 +2376,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang238</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:26</modifi_time>
 </RECORD>
@@ -2386,8 +2386,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang239</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:26</modifi_time>
 </RECORD>
 <RECORD>
@@ -2396,8 +2396,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang240</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:26</modifi_time>
 </RECORD>
 <RECORD>
@@ -2406,7 +2406,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang241</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:26</modifi_time>
 </RECORD>
@@ -2416,8 +2416,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang242</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 1</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:26</modifi_time>
 </RECORD>
 <RECORD>
@@ -2426,7 +2426,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang243</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:26</modifi_time>
 </RECORD>
@@ -2436,8 +2436,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang244</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:26</modifi_time>
 </RECORD>
 <RECORD>
@@ -2446,8 +2446,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang245</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 2</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:26</modifi_time>
 </RECORD>
 <RECORD>
@@ -2456,8 +2456,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang246</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:26</modifi_time>
 </RECORD>
 <RECORD>
@@ -2466,8 +2466,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang247</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>prize 5</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:26</modifi_time>
 </RECORD>
 <RECORD>
@@ -2476,7 +2476,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang248</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:26</modifi_time>
 </RECORD>
@@ -2486,7 +2486,7 @@
 <last_name>Zhang</last_name>
 <chinese_name>zhang249</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type />
+<prize_type></prize_type>
 <is_delete>0</is_delete>
 <modifi_time>2015/1/9 14:42:27</modifi_time>
 </RECORD>
@@ -2496,8 +2496,8 @@
 <last_name>Zhang</last_name>
 <chinese_name>张兵</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>bigAward,prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 10:38:30</modifi_time>
 </RECORD>
 <RECORD>
@@ -2506,8 +2506,8 @@
 <last_name>Li</last_name>
 <chinese_name>李洪亮</chinese_name>
 <user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type>bigAward,prize 7</prize_type>
-<is_delete>1</is_delete>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
 <modifi_time>2015/1/9 10:38:45</modifi_time>
 </RECORD>
 </RECORDS>
