@@ -33,7 +33,11 @@ public class UsersService {
 		for (int i = 0; ids != null && i < ids.length; i++) {
 			String id = ids[i];
 			try {
-				xmlUtil.updateXmlById(id, document, "1", prizeType);
+				if(Constants.BIG_AWARD_NAME.equals(prizeType)){
+					xmlUtil.updateXmlById(id, document, "0", prizeType);
+				}else{
+					xmlUtil.updateXmlById(id, document, "1", prizeType);
+				}
 			} catch (Exception e) {
 				e.printStackTrace();
 			}

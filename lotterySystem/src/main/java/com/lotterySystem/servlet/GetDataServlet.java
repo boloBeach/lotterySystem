@@ -36,7 +36,7 @@ public class GetDataServlet extends HttpServlet {
 		//String round = request.getParameter("round");
 		String prizeNo = request.getParameter("prizeNo");
 		String prizeName = request.getParameter("prizeName");
-		//System.out.println("personIDs: " + personIDs);
+		System.out.println("personIDs: " + personIDs);
 		System.out.println("prizeNo: " + prizeNo);
 
 		String[] ids = null;
@@ -45,12 +45,20 @@ public class GetDataServlet extends HttpServlet {
 		}
 		usersService.updateUsers(ids, prizeName);
 		usersService.exportToExcel();
-		usersService.updatePrizeStatus(prizeNo);
+		if(prizeNo!=null){
+			usersService.updatePrizeStatus(prizeNo);
+		}
 
 		PrintWriter out = response.getWriter();
 		Gson gson = new Gson();
 		List<UsersBean> listUsersBeans = usersService.getListUsersBeans();
 		out.write(gson.toJson(listUsersBeans));
 		out.close();
+	}
+	
+	@Override
+	protected void doGet(HttpServletRequest req, HttpServletResponse resp)
+			throws ServletException, IOException {
+		this.doPost(req, resp);
 	}
 }

@@ -23,6 +23,22 @@ $(document).ready(function(){
 			
 			if(latitude != null){ // 说明纬度已经被选择了,并且执行ajax
 				var bigawardNode = tbody.find("tr:eq("+e+") td:eq("+(latitude-1)+")");
+				var awardedId = bigawardNode.html().split("<br>")[0];
+				var ids = new Array();
+				ids[0]=awardedId;
+				$.ajax({
+					url : "getDataServlet",
+					type : "get",
+					cache : false,
+					dataType : 'json',
+					data : {
+						"ids" : ids.toString(),
+						prizeName : "bigAward"
+					},
+					success : function(data) {
+					}
+				});
+				
 				bigawardNode.css("background-color", "red");
 				showAward.show();
 				showAward.find("div").css("background-color","#DEF3CA").html(bigawardNode.html()).animate({
@@ -70,6 +86,24 @@ $(document).ready(function(){
 			if(longitude != null){ // this is write ajax
 				var index = e-1;
 				var bigawardNode =tbody.find("tr:eq("+longitude+") td:eq("+index+")") ;
+				
+				var awardedId = bigawardNode.html().split("<br>")[0];
+				var ids = new Array();
+				ids[0]=awardedId;
+				alert(ids);
+				$.ajax({
+					url : "getDataServlet",
+					type : "get",
+					cache : false,
+					dataType : 'json',
+					data : {
+						"ids" : ids.toString(),
+						prizeName : "bigAward"
+					},
+					success : function(data) {
+					}
+				});
+				
 				bigawardNode.css("background-color", "red");
 				showAward.show();
 				showAward.find("div").css("background-color","#DEF3CA").html(bigawardNode.html()).animate({
