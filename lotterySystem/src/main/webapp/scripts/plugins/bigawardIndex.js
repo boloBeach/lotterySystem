@@ -46,5 +46,82 @@ $(document).ready(function(){
 					$(this).find("p").css("font-size","18pt").css("text-align","center");
 					$('.news2').hide();
 					}
-				);					   
+				);	
+				
+				
+				/***************get the user data***************/
+				var userDatas;//use to cache data
+				var dataLength = 0;
+				var groupA;
+				var groupB;
+				var groupC;
+				var groupD;
+				var groupE;
+				$.ajax({
+					url : "usersServlet",
+					type : "get",
+					cache : false,
+					dataType : 'json',
+					data : {
+						start:"start"
+					},
+					success : function(data) {
+						//alert(data.length);
+						userDatas = data;
+						dataLength = userDatas.length;
+						//group A
+						groupA = userDatas.slice(0,50);
+						var textA = "<ul>";
+						for (var i = 0; i < 5; i++) {
+							var user = groupA[i];
+							textA +=("<li>"+user.id+" &nbsp;&nbsp;&nbsp;  "+user.englishName+"  &nbsp;&nbsp;&nbsp;"+user.chineseName+"</li>");
+						}
+						textA+="</ul>";
+						$("#pa").text(groupA[0].id+"~~"+groupA[groupA.length-1].id);
+						$(".search").html(textA);
+						//Group B
+						groupB = userDatas.slice(50,100);
+						var textB = "<ul>";
+						for (var i = 0; i < 10; i++) {
+							var user = groupB[i];
+							textB +=("<li>"+user.id+" &nbsp;  "+user.englishName+"  &nbsp;"+user.chineseName+"</li>");
+						}
+						textB +="</ul>";
+						$("#pb").text(groupB[0].id+"~~"+groupB[groupB.length-1].id);
+						$(".news").html(textB);
+						//Group C
+						groupC = userDatas.slice(100,150);
+						var textC = "<ul>";
+						for (var i = 0; i < 12; i++) {
+							var user = groupC[i];
+							textC +=("<li>"+user.id+" &nbsp;&nbsp;&nbsp;  "+user.englishName+"  &nbsp;&nbsp;&nbsp;"+user.chineseName+"</li>");
+						}
+						textC +="</ul>";
+						$("#pc").text(groupC[0].id+"~~"+groupC[groupC.length-1].id);
+						$(".group-e-content").html(textC);
+						//Group D
+						groupD = userDatas.slice(150,200);
+						var textD = "<ul>";
+						for (var i = 0; i < 10; i++) {
+							var user = groupD[i];
+							textD +=("<li>"+user.id+" &nbsp;  "+user.englishName+"  &nbsp;"+user.chineseName+"</li>");
+						}
+						textD +="</ul>";
+						$("#pd").text(groupD[0].id+"~~"+groupD[groupD.length-1].id);
+						$(".news2").html(textD);
+						//Group E
+						groupE = userDatas.slice(200,250);
+						var textE = "<ul>";
+						for (var i = 0; i < 5; i++) {
+							var user = groupE[i];
+							textE +=("<li>"+user.id+" &nbsp;&nbsp;&nbsp;  "+user.englishName+"  &nbsp;&nbsp;&nbsp;"+user.chineseName+"</li>");
+						}
+						textE +="</ul>";
+						$("#pe").text(groupE[0].id+"~~"+groupE[groupE.length-1].id);
+						$(".groups").html(textE);
+					}
+				});
+				
+			
+				
 		});
