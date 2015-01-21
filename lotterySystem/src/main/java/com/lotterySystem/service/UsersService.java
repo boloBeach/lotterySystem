@@ -15,8 +15,8 @@ public class UsersService {
 		classLoader = Thread.currentThread().getContextClassLoader();
 		String xmlPath = classLoader.getResource(Constants.XML_FILE_PATH)
 				.getPath();
-		System.out.println("xmlPath: "+xmlPath);
-		
+		System.out.println("xmlPath: " + xmlPath);
+
 		XmlUtil xmlUtil = new XmlUtil(xmlPath);
 		Document document = xmlUtil.readDocument();
 		List<UsersBean> listUsersBeans = xmlUtil.getUsersByXml(document);
@@ -33,17 +33,12 @@ public class UsersService {
 		for (int i = 0; ids != null && i < ids.length; i++) {
 			String id = ids[i];
 			try {
-				if(Constants.BIG_AWARD_NAME.equals(prizeType)){
-					xmlUtil.updateXmlById(id, document, "0", prizeType);
-				}else{
-					xmlUtil.updateXmlById(id, document, "1", prizeType);
-				}
+				xmlUtil.updateXmlById(id, document, "1", prizeType);
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
 		}
 	}
-
 
 	public void exportToExcel() {
 		POIUtil.export1();

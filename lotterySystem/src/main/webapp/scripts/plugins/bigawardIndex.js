@@ -110,7 +110,7 @@ $(document).ready(function(){
 						$("#pd").text(groupD[0].id+"~~"+groupD[groupD.length-1].id);
 						$(".news2").html(textD);
 						//Group E
-						groupE = userDatas.slice(200,250);
+						groupE = userDatas.slice(200,userDatas.length);
 						var textE = "<ul>";
 						for (var i = 0; i < 5; i++) {
 							var user = groupE[i];

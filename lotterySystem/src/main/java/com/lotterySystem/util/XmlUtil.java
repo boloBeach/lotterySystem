@@ -1,6 +1,7 @@
 package com.lotterySystem.util;
 
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
@@ -13,7 +14,6 @@ import java.util.Map;
 import java.util.Properties;
 import java.util.Set;
 
-import org.apache.commons.codec.binary.StringUtils;
 import org.jdom.Document;
 import org.jdom.Element;
 import org.jdom.JDOMException;
@@ -66,8 +66,60 @@ public class XmlUtil {
 		}
 	}
 	public static void main(String[] args) {
+		String toPath = Thread.currentThread().getContextClassLoader().getResource(Constants.XML_FILE_PATH).getPath();
+		String fromPath = Thread.currentThread().getContextClassLoader().getResource(Constants.RESET_XML_FILE_PATH).getPath();
+		XmlUtil util = new XmlUtil(fromPath);
+		Document fromDocument = util.readDocument();
+		XmlUtil util1 = new XmlUtil(toPath);
+		Document toDocument = util1.readDocument();
+		resetUsersXml(fromDocument,toDocument);
+	}
+	
+	public static void resetUsersXml(Document documentFrom,Document documentTo){
+		Element fromRootEl = documentFrom.getRootElement();
+		List<Element> fromListEls = fromRootEl.getChildren("RECORD");
+		Element toRootEl = documentTo.getRootElement();
+		List<Element> toListEls = toRootEl.getChildren("RECORD");
+		Element recod = null;
+		Element recodTo = null;
+		Element id = null;
+		Element englishName = null;
+		Element chineseName = null;
+		Element lastName = null;
+		Element userImg = null;
+		Element isDelete = null;
+		Element prizeType = null;
+		for (int i = 0; i < fromListEls.size(); i++) {
+			recod = fromListEls.get(i);
+			isDelete = recod.getChild("is_delete");
+			id = recod.getChild("id");
+			englishName = recod.getChild("english_name");
+			chineseName = recod.getChild("chinese_name");
+			lastName = recod.getChild("last_name");
+			userImg = recod.getChild("user_img");
+			prizeType = recod.getChild("prize_type");
+			
+			recodTo = toListEls.get(i);
+			recodTo.getChild("is_delete").setText(isDelete.getText());
+			recodTo.getChild("id").setText(id.getText());
+			recodTo.getChild("english_name").setText(englishName.getText());
+			recodTo.getChild("chinese_name").setText(chineseName.getText());
+			recodTo.getChild("last_name").setText(lastName.getText());
+			recodTo.getChild("user_img").setText(userImg.getText());
+			recodTo.getChild("prize_type").setText(prizeType.getText());
+		}
+		
+		XMLOutputter xmlOutputter = new XMLOutputter();
+		try {
+			xmlOutputter.output(documentTo, new FileOutputStream(Constants.XML_FILE_PATH));
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 		
 	}
+	
 	
 	public Document readDocument() {
 		SAXBuilder builder = new SAXBuilder();

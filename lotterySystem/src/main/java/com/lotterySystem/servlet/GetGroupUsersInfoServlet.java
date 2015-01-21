@@ -40,7 +40,7 @@ public class GetGroupUsersInfoServlet extends HttpServlet {
 			list = usersBeans.subList(150, 200);
 		}else
 		if("E".equalsIgnoreCase(group)){
-			list = usersBeans.subList(200, 250);
+			list = usersBeans.subList(200, usersBeans.size());
 		}
 		if(list!=null){
 			request.getSession().setAttribute("users", list);
