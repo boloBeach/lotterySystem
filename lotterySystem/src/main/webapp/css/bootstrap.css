@@ -966,7 +966,7 @@ hr {
   margin-top: 20px;
   margin-bottom: 20px;
   border: 0;
-  border-top: 1px solid #eee;
+  border-top: 5px solid #E5AA29;
 }
 .sr-only {
   position: absolute;
@@ -2925,7 +2925,7 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: #fff;
-  background-color: #5cb85c;
+  background-color: #32EA0A;
   border-color: #4cae4c;
 }
 .btn-success:hover,
@@ -3060,7 +3060,7 @@ fieldset[disabled] .btn-warning.active {
 }
 .btn-danger {
   color: #fff;
-  background-color: #d9534f;
+  background-color: #F00F18;
   border-color: #d43f3a;
 }
 .btn-danger:hover,

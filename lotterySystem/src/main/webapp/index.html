@@ -18,18 +18,17 @@
 		<header class="header">
 		
 		<div id="prizeArea" align="center">
-			<span id="currentPrize">CurrentPrize: None</span>
-			<button type="button" id="next" class="btn btn-primary">NEXT</button>
+			<div id="currentPrize" style="display: inline;margin-left: 45%;margin-right: 33%;">CurrentPrize: <span style="font-size: 20px;">None</span></div>
+			<button type="button" id="next" class="btn btn-primary" style="float: right;">NEXT</button>
 			<input  type="hidden" id="arrayLength" value="1" class="form-control" style="width:80px;height:30px; display: inline;"/>
 			<input  type="hidden" id="round" value="1" class="form-control" style="width:80px;height:30px; display: inline;"/>
 			<input  type="hidden" id="prizeName" value="prize1" class="form-control" style="width:80px;height:30px; display: inline;"/>
 		</div>
-		<hr/>
+		<hr style=""/>
 		<div>
-			<button type="button" id="start" class="btn btn-success">START</button>
-			<button type="button" id="stop" class="btn btn-danger">STOP</button>
-			
-			<p  align="right" ><a href="./downloadServlet?filename=AwardedPerson.xls" id="download" class="btn btn-info" >Export</a></p>
+			<button type="button" id="start" class="btn btn-success" style="margin-right: 3%;margin-left: 10%">START</button>
+			<button type="button" id="stop" class="btn btn-danger" style="margin-left:3%">STOP</button>
+			<span style="float: right;"><a href="./downloadServlet?filename=AwardedPerson.xls" id="download" class="btn btn-info" >Export</a></span>
 		</div>
 		</header>
 		<div class="content" align="center">
