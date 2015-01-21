@@ -213,7 +213,7 @@ public class XmlUtil {
 	private static Map<String, List<UsersBean>> initPrizeLevelAndUsersBeanListMap() {
 		Map<String, List<UsersBean>> resultMap = new HashMap<String, List<UsersBean>>();
 		for (int i = 0; i < prizeNames.length; i++) {
-			resultMap.put(prizeNames[i], new ArrayList<UsersBean>());
+			resultMap.put(prizeNames[i].trim(), new ArrayList<UsersBean>());
 		}
 		return resultMap;
 	}
@@ -274,7 +274,7 @@ public class XmlUtil {
 				if (text != null && text.contains(Constants.BIG_AWARD_NAME)) {
 					text = Constants.BIG_AWARD_NAME;
 				}
-				List<UsersBean> list = resultMap.get(text);
+				List<UsersBean> list = resultMap.get(text.trim());
 				list.add(usersBean);
 			}
 		}
