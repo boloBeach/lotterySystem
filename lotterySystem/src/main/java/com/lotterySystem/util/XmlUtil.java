@@ -7,11 +7,13 @@ import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Properties;
 import java.util.Set;
 
+import org.apache.commons.codec.binary.StringUtils;
 import org.jdom.Document;
 import org.jdom.Element;
 import org.jdom.JDOMException;
@@ -191,12 +193,13 @@ public class XmlUtil {
 				record.getChild("is_delete").setText(isDelete);
 
 				Element prizeTypeEl = record.getChild("prize_type");
-				String prizeString = prizeTypeEl.getText().toString();
-				if (Constants.BIG_AWARD_NAME.equals(prizeString)
+				String prizeString = prizeTypeEl.getText().toString().trim();
+				
+				if (!StringUtil.isNull(prizeString)&&Constants.BIG_AWARD_NAME.equals(prizeString)
 						&& !prizeType.equals(prizeString)) {
-					record.getChild("prize_type").setText(
-							prizeString + "," + prizeType);
+					record.getChild("prize_type").setText(prizeString + "," + prizeType);
 				} else {
+					
 					record.getChild("prize_type").setText(prizeType);
 				}
 				XMLOutputter xmlOutputter = new XMLOutputter();
@@ -244,16 +247,14 @@ public class XmlUtil {
 			isdeleteString = isDelete.getText().trim();
 
 			boolean contains = false;
-			String text2 = prizeType.getText();
-			if (text2 != null) {
-				for (String pName : prizeNames) {
-					if (text2.contains(pName)) {
-						contains = true;
-						break;
-					}
+			String text2 = prizeType.getText().trim();
+			Iterator<String> it = keySet.iterator();
+			while(it.hasNext()){
+				String next = it.next();
+				if(next.equals(text2)||(text2!=null&&text2.contains(next))){
+					contains=true;
 				}
 			}
-
 			if (!StringUtil.isNull(prizeType.getText()) && contains) {
 				id = recod.getChild("id");
 				englishName = recod.getChild("english_name");

@@ -265,6 +265,7 @@ public class POIUtil {
 			classLoader = Thread.currentThread().getContextClassLoader();
 			String xmlPath = classLoader.getResource(Constants.XML_FILE_PATH)
 					.getPath();
+			System.out.println("========xmlPath1========"+xmlPath);
 			XmlUtil xmlUtil = new XmlUtil(xmlPath);
 			Document document = xmlUtil.readDocument();
 			Map<String, List<UsersBean>> listUsersBeansMap = xmlUtil
