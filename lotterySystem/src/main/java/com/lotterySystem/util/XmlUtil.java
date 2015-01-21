@@ -66,13 +66,13 @@ public class XmlUtil {
 		}
 	}
 	public static void main(String[] args) {
-		String toPath = Thread.currentThread().getContextClassLoader().getResource(Constants.XML_FILE_PATH).getPath();
-		String fromPath = Thread.currentThread().getContextClassLoader().getResource(Constants.RESET_XML_FILE_PATH).getPath();
-		XmlUtil util = new XmlUtil(fromPath);
-		Document fromDocument = util.readDocument();
-		XmlUtil util1 = new XmlUtil(toPath);
-		Document toDocument = util1.readDocument();
-		resetUsersXml(fromDocument,toDocument);
+//		String toPath = Thread.currentThread().getContextClassLoader().getResource(Constants.XML_FILE_PATH).getPath();
+//		String fromPath = Thread.currentThread().getContextClassLoader().getResource(Constants.RESET_XML_FILE_PATH).getPath();
+//		XmlUtil util = new XmlUtil(fromPath);
+//		Document fromDocument = util.readDocument();
+//		XmlUtil util1 = new XmlUtil(toPath);
+//		Document toDocument = util1.readDocument();
+//		resetUsersXml(fromDocument,toDocument);
 	}
 	
 	public static void resetUsersXml(Document documentFrom,Document documentTo){
@@ -112,6 +112,7 @@ public class XmlUtil {
 		XMLOutputter xmlOutputter = new XMLOutputter();
 		try {
 			xmlOutputter.output(documentTo, new FileOutputStream(Constants.XML_FILE_PATH));
+			System.out.println("Reset succeed");
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
