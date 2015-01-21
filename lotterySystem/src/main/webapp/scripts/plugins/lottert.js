@@ -101,7 +101,7 @@ $(document).ready(function() {
 						for (var j = 0; j < array.length; j++) {
 							// alert(array[j]);
 							var object = cacheData[array[j] - 1];
-							$("<div class=\"person\" id=\"" + object.id+ "\" >" + object.chineseName+ " <br/>" + object.englishName+ "<br/>"+object.lastName+" <br/></div>")
+							$("<div class=\"person\" id=\"" + object.id+ "\" >" + object.id+ " <br/>" + object.englishName+ "<br/>"+object.chineseName+" <br/></div>")
 									.appendTo(contentUl);
 						}
 						array.splice(0, array.length);

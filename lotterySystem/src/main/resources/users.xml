@@ -1,2513 +1,2473 @@
 <?xml version="1.0" standalone="yes"?>
 <RECORDS>
 <RECORD>
-<id>CDH0001</id>
-<english_name>nick</english_name>
-<last_name>Ni</last_name>
-<chinese_name>尼克尔</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0007</id>
+<english_name>Zhou Jianying </english_name>
+<last_name> Zhou</last_name>
+<chinese_name>周建英</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 10:39:45</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0002</id>
-<english_name>sanday</english_name>
-<last_name>Shan</last_name>
-<chinese_name>闪迪</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0009</id>
+<english_name>Ray Zhang</english_name>
+<last_name> Zhang</last_name>
+<chinese_name>张哲强</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 10:40:11</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0003</id>
-<english_name>jean</english_name>
-<last_name>Lin</last_name>
-<chinese_name>林璟</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0012</id>
+<english_name>Nick Zhi</english_name>
+<last_name> Zhi</last_name>
+<chinese_name>郅东</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 10:40:38</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0004</id>
-<english_name>Charlis</english_name>
-<last_name>Cha</last_name>
-<chinese_name>查尔斯</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0015</id>
+<english_name>Kevin Qu</english_name>
+<last_name> Qu</last_name>
+<chinese_name>屈亮</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 10:40:57</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0005</id>
-<english_name>duc</english_name>
-<last_name>Duc</last_name>
-<chinese_name>duc</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0016</id>
+<english_name>Martain Chen</english_name>
+<last_name> Chen</last_name>
+<chinese_name>陈晖</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 10:41:08</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0006</id>
-<english_name>grease</english_name>
-<last_name>Chen</last_name>
-<chinese_name>陈瑶</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0019</id>
+<english_name>Scott Song</english_name>
+<last_name> Song</last_name>
+<chinese_name>宋刚</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 10:41:24</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0007</id>
-<english_name>henry</english_name>
-<last_name>Tan</last_name>
+<id>CD0024</id>
+<english_name>Eric Zhang</english_name>
+<last_name> Zhang</last_name>
+<chinese_name>张星</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0025</id>
+<english_name>Edwin Xing</english_name>
+<last_name> Xing</last_name>
+<chinese_name>邢波</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0030</id>
+<english_name>Eric Wu</english_name>
+<last_name> Wu</last_name>
+<chinese_name>吴渝波</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0036</id>
+<english_name>Allen Zhang</english_name>
+<last_name> Zhang</last_name>
+<chinese_name>张生政</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0039</id>
+<english_name>Navid Wang</english_name>
+<last_name> Wang</last_name>
+<chinese_name>王能</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0040</id>
+<english_name>Henry Lv</english_name>
+<last_name> Lv</last_name>
+<chinese_name>吕刚</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0042</id>
+<english_name>James Wang</english_name>
+<last_name> Wang</last_name>
+<chinese_name>王健平</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0044</id>
+<english_name>Killy Huang</english_name>
+<last_name> Huang</last_name>
+<chinese_name>黄英</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0047</id>
+<english_name>Joyce Zhang</english_name>
+<last_name> Zhang</last_name>
+<chinese_name>张力</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0049</id>
+<english_name>Amy Yu</english_name>
+<last_name> Yu</last_name>
+<chinese_name>余杨</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0051</id>
+<english_name>Philip Zhang</english_name>
+<last_name> Zhang</last_name>
+<chinese_name>张喜来</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0052</id>
+<english_name>Aiien Lei</english_name>
+<last_name> Lei</last_name>
+<chinese_name>雷镇宇</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0055</id>
+<english_name>Erin Huang</english_name>
+<last_name> Huang</last_name>
+<chinese_name>黄小兰</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0057</id>
+<english_name>Cathy Gan</english_name>
+<last_name> Gan</last_name>
+<chinese_name>甘琴</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0061</id>
+<english_name>Jean Lin</english_name>
+<last_name> Lin</last_name>
+<chinese_name>林晋</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0063</id>
+<english_name>Gary Wang</english_name>
+<last_name> Wang</last_name>
+<chinese_name>王广龙</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0064</id>
+<english_name>Cloudy Deng</english_name>
+<last_name> Deng</last_name>
+<chinese_name>邓强</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0069</id>
+<english_name>Lindsay Luo</english_name>
+<last_name> Luo</last_name>
+<chinese_name>罗连磊</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0077</id>
+<english_name>Linus Xie</english_name>
+<last_name> Xie</last_name>
+<chinese_name>谢明武</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0084</id>
+<english_name>Eric Miao</english_name>
+<last_name> Miao</last_name>
+<chinese_name>苗佳</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0090</id>
+<english_name>Susan Xie</english_name>
+<last_name> Xie</last_name>
+<chinese_name>谢树香</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0093</id>
+<english_name>Vincent Lv</english_name>
+<last_name> Lv</last_name>
+<chinese_name>吕鹏</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0099</id>
+<english_name>Yvonne Wei</english_name>
+<last_name> Wei</last_name>
+<chinese_name>魏亭亭</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0104</id>
+<english_name>Gabry Gao</english_name>
+<last_name> Gao</last_name>
+<chinese_name>高鹏</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0106</id>
+<english_name>Thomas Wang</english_name>
+<last_name> Wang</last_name>
+<chinese_name>王德洪</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0107</id>
+<english_name>Echo Pu</english_name>
+<last_name> Pu</last_name>
+<chinese_name>蒲瑞华</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0111</id>
+<english_name>Daisy Wang</english_name>
+<last_name> Wang</last_name>
+<chinese_name>王丹</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0120</id>
+<english_name>Scority Zhu</english_name>
+<last_name> Zhu</last_name>
+<chinese_name>朱永飞</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0123</id>
+<english_name>Hero Qiu</english_name>
+<last_name> Qiu</last_name>
+<chinese_name>邱刚</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0127</id>
+<english_name>Margaret Mao</english_name>
+<last_name> Mao</last_name>
+<chinese_name>毛宜雅</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0128</id>
+<english_name>Ivan Yang</english_name>
+<last_name> Yang</last_name>
+<chinese_name>杨伏牛</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0134</id>
+<english_name>Leo Liu</english_name>
+<last_name> Liu</last_name>
+<chinese_name>刘浩</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0136</id>
+<english_name>Ryan Wang</english_name>
+<last_name> Wang</last_name>
+<chinese_name>王强</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0137</id>
+<english_name>Wendy Wei</english_name>
+<last_name> Wei</last_name>
+<chinese_name>魏蔚</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0139</id>
+<english_name>Sharon Xu</english_name>
+<last_name> Xu</last_name>
+<chinese_name>胥彦宇</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0140</id>
+<english_name>Hugh Lee</english_name>
+<last_name> Lee</last_name>
+<chinese_name>李冀</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0143</id>
+<english_name>Lily Li</english_name>
+<last_name> Li</last_name>
+<chinese_name>李韵</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0144</id>
+<english_name>Treen Wang</english_name>
+<last_name> Wang</last_name>
+<chinese_name>王林川</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0146</id>
+<english_name>Eson Deng</english_name>
+<last_name> Deng</last_name>
+<chinese_name>邓小林</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0148</id>
+<english_name>Sally Yang</english_name>
+<last_name> Yang</last_name>
+<chinese_name>杨舒涵</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0151</id>
+<english_name>Andy Zhou</english_name>
+<last_name> Zhou</last_name>
+<chinese_name>周显容</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0152</id>
+<english_name>Ben Nie</english_name>
+<last_name> Nie</last_name>
+<chinese_name>聂青松</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0154</id>
+<english_name>Six Liu</english_name>
+<last_name> Liu</last_name>
+<chinese_name>刘舜</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0157</id>
+<english_name>Calvin Wu</english_name>
+<last_name> Wu</last_name>
+<chinese_name>吴亮 </chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0159</id>
+<english_name>Angus Xiong</english_name>
+<last_name> Xiong</last_name>
+<chinese_name>熊金龙</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0165</id>
+<english_name>Rody Qian</english_name>
+<last_name> Qian</last_name>
+<chinese_name>钱辉</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0166</id>
+<english_name>Keller Xu</english_name>
+<last_name> Xu</last_name>
+<chinese_name>徐杨</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0167</id>
+<english_name>Eric Mao</english_name>
+<last_name> Mao</last_name>
+<chinese_name>毛文杰</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0172</id>
+<english_name>Wiskey Diao</english_name>
+<last_name> Diao</last_name>
+<chinese_name>刁邓均</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0175</id>
+<english_name>Yvonne Wang</english_name>
+<last_name> Wang</last_name>
+<chinese_name>王文艳</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0177</id>
+<english_name>Jacky Tian</english_name>
+<last_name> Tian</last_name>
+<chinese_name>田波</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0180</id>
+<english_name>Summer Han</english_name>
+<last_name> Han</last_name>
+<chinese_name>韩菲菲</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0182</id>
+<english_name>Shirley Liao</english_name>
+<last_name> Liao</last_name>
+<chinese_name>廖萱</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0183</id>
+<english_name>Jenny Yang</english_name>
+<last_name> Yang</last_name>
+<chinese_name>杨娟</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0186</id>
+<english_name>Leaf He</english_name>
+<last_name> He</last_name>
+<chinese_name>何丽叶</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0192</id>
+<english_name>Archer Li</english_name>
+<last_name> Li</last_name>
+<chinese_name>李亚青</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0194</id>
+<english_name>Kala Liu</english_name>
+<last_name> Liu</last_name>
+<chinese_name>刘利</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0195</id>
+<english_name>Damon Pu</english_name>
+<last_name> Pu</last_name>
+<chinese_name>蒲阳</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0196</id>
+<english_name>Duc Hang</english_name>
+<last_name> Hang</last_name>
+<chinese_name>韩树德</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0197</id>
+<english_name>Layton Luo</english_name>
+<last_name> Luo</last_name>
+<chinese_name>罗鸣</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0198</id>
+<english_name>Terry Li</english_name>
+<last_name> Li</last_name>
+<chinese_name>李朕</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0201</id>
+<english_name>Darcy Yang</english_name>
+<last_name> Yang</last_name>
+<chinese_name>杨鑫</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0203</id>
+<english_name>Monika Li</english_name>
+<last_name> Li</last_name>
+<chinese_name>李凤娟</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0204</id>
+<english_name>Edward Huang </english_name>
+<last_name> Huang </last_name>
+<chinese_name>黄晶津</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0207</id>
+<english_name>Kevin Fu</english_name>
+<last_name> Fu</last_name>
+<chinese_name>付鹏凯</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0208</id>
+<english_name>Alex Tian</english_name>
+<last_name> Tian</last_name>
+<chinese_name>田斌</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0213</id>
+<english_name>Buck Yang</english_name>
+<last_name> Yang</last_name>
+<chinese_name>杨小军</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0214</id>
+<english_name>Evan Liu</english_name>
+<last_name> Liu</last_name>
+<chinese_name>刘佐林</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0215</id>
+<english_name>Bill Gong</english_name>
+<last_name> Gong</last_name>
+<chinese_name> 龚亮</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0216</id>
+<english_name>Dennis Zhou</english_name>
+<last_name> Zhou</last_name>
+<chinese_name>周廷春</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0219</id>
+<english_name>Andy Leng</english_name>
+<last_name> Leng</last_name>
+<chinese_name>冷友方</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0224</id>
+<english_name>Alfie Xu</english_name>
+<last_name> Xu</last_name>
+<chinese_name>徐林</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0226</id>
+<english_name>Angelica Zhang</english_name>
+<last_name> Zhang</last_name>
+<chinese_name>张文</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0227</id>
+<english_name>Helen Li</english_name>
+<last_name> Li</last_name>
+<chinese_name>李晓艳</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0228</id>
+<english_name>Lisa Zhuang</english_name>
+<last_name> Zhuang</last_name>
+<chinese_name>庄小丽</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0229</id>
+<english_name>Nathaniel Nie</english_name>
+<last_name> Nie</last_name>
+<chinese_name>聂豪</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0231</id>
+<english_name>Daniel Dai</english_name>
+<last_name> Dai</last_name>
+<chinese_name>代定洪</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0232</id>
+<english_name>Jay Shao</english_name>
+<last_name> Shao</last_name>
+<chinese_name>邵杰</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0235</id>
+<english_name>Sandy Sun</english_name>
+<last_name> Sun</last_name>
+<chinese_name>孙红燕</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0236</id>
+<english_name>Ellis Chen</english_name>
+<last_name> Chen</last_name>
+<chinese_name>陈勇</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0238</id>
+<english_name>Kevin Zeng</english_name>
+<last_name> Zeng</last_name>
+<chinese_name>曾鹏</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0239</id>
+<english_name>Tab Han</english_name>
+<last_name> Han</last_name>
+<chinese_name>韩业昊</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0240</id>
+<english_name>Simon Luo</english_name>
+<last_name> Luo</last_name>
+<chinese_name>罗唐治</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0242</id>
+<english_name>Wayne Wen</english_name>
+<last_name> Wen</last_name>
+<chinese_name>温升勇</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0243</id>
+<english_name>Jordan Zhou</english_name>
+<last_name> Zhou</last_name>
+<chinese_name>周少锋</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0244</id>
+<english_name>Tim Zhou</english_name>
+<last_name> Zhou</last_name>
+<chinese_name>周传贵</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0245</id>
+<english_name>Payne Jia</english_name>
+<last_name> Jia</last_name>
+<chinese_name>贾朋飞</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0248</id>
+<english_name>Sam Li</english_name>
+<last_name> Li</last_name>
+<chinese_name>李云山</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0249</id>
+<english_name>Carl Wang</english_name>
+<last_name> Wang</last_name>
+<chinese_name>王睿</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0250</id>
+<english_name>Larry Wang</english_name>
+<last_name> Wang</last_name>
+<chinese_name>王龙</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0251</id>
+<english_name>Len Tang</english_name>
+<last_name> Tang</last_name>
+<chinese_name>唐林</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0256</id>
+<english_name>Maxwell Yu</english_name>
+<last_name> Yu</last_name>
+<chinese_name>余应强</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0257</id>
+<english_name>Shelley Yang</english_name>
+<last_name> Yang</last_name>
+<chinese_name>杨莹</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0260</id>
+<english_name>Tyler Feng</english_name>
+<last_name> Feng</last_name>
+<chinese_name>冯斌</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0262</id>
+<english_name>Clariones Wang</english_name>
+<last_name> Wang</last_name>
+<chinese_name>王煜东</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0263</id>
+<english_name>Jason He</english_name>
+<last_name> He</last_name>
+<chinese_name>何泓松</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0264</id>
+<english_name>Sylvia Cao</english_name>
+<last_name> Cao</last_name>
+<chinese_name>曹莹莹</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0265</id>
+<english_name>Robert Yang</english_name>
+<last_name> Yang</last_name>
+<chinese_name>杨勇</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0267</id>
+<english_name>Jone Huang</english_name>
+<last_name> Huang</last_name>
+<chinese_name>黄军</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0268</id>
+<english_name>Daisy Yin</english_name>
+<last_name> Yin</last_name>
+<chinese_name>尹尤丽</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0269</id>
+<english_name>Jmay Xie</english_name>
+<last_name> Xie</last_name>
+<chinese_name>谢吉梅</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0270</id>
+<english_name>Flora Li</english_name>
+<last_name> Li</last_name>
+<chinese_name>李小花</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0271</id>
+<english_name>Kyle Yao</english_name>
+<last_name> Yao</last_name>
+<chinese_name>姚凯</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0273</id>
+<english_name>Alice Xu</english_name>
+<last_name> Xu</last_name>
+<chinese_name>徐媛</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0275</id>
+<english_name>Joy Wang</english_name>
+<last_name> Wang</last_name>
+<chinese_name>王学娇</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0276</id>
+<english_name>Lauren Wang</english_name>
+<last_name> Wang</last_name>
+<chinese_name>王良容</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0277</id>
+<english_name>Lei Que</english_name>
+<last_name> Que</last_name>
+<chinese_name>阙蕾</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0278</id>
+<english_name>Miranda Feng</english_name>
+<last_name> Feng</last_name>
+<chinese_name>冯燕</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0280</id>
+<english_name>Jeffery Gou</english_name>
+<last_name> Gou</last_name>
+<chinese_name>苟军</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0281</id>
+<english_name>Yoyo Chen</english_name>
+<last_name> Chen</last_name>
+<chinese_name>陈小群</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0283</id>
+<english_name>Ned Li</english_name>
+<last_name> Li</last_name>
+<chinese_name>李焕宇</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0284</id>
+<english_name>Damon Wen</english_name>
+<last_name> Wen</last_name>
+<chinese_name>文浩</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0285</id>
+<english_name>Paddy Yang</english_name>
+<last_name> Yang</last_name>
+<chinese_name>杨培海</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0286</id>
+<english_name>Roger Gan</english_name>
+<last_name> Gan</last_name>
+<chinese_name>甘霖</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0287</id>
+<english_name>Nemo Zhao</english_name>
+<last_name> Zhao</last_name>
+<chinese_name>赵先斌</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0290</id>
+<english_name>Lance Li</english_name>
+<last_name> Li</last_name>
+<chinese_name>李南平</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0296</id>
+<english_name>Laura Zhang</english_name>
+<last_name> Zhang</last_name>
+<chinese_name>张小花</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0297</id>
+<english_name>Christina Xu</english_name>
+<last_name> Xu</last_name>
+<chinese_name>徐倩</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0299</id>
+<english_name>Paul Deng</english_name>
+<last_name> Deng</last_name>
+<chinese_name>邓小华</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0300</id>
+<english_name>Yao Yao</english_name>
+<last_name> Yao</last_name>
+<chinese_name>姚先森</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0302</id>
+<english_name>Ryan Xiao</english_name>
+<last_name> Xiao</last_name>
+<chinese_name>肖伟</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0303</id>
+<english_name>Frank Xu</english_name>
+<last_name> Xu</last_name>
+<chinese_name>徐兴剑</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0304</id>
+<english_name>Allen He</english_name>
+<last_name> He</last_name>
+<chinese_name>何其佳</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0305</id>
+<english_name>Shero Chang</english_name>
+<last_name> Chang</last_name>
+<chinese_name>昌仙容</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0306</id>
+<english_name>Andre Xu</english_name>
+<last_name> Xu</last_name>
+<chinese_name>许洪操</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0307</id>
+<english_name>Peter Yue</english_name>
+<last_name> Yue</last_name>
+<chinese_name>岳东</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0308</id>
+<english_name>Russell Hao</english_name>
+<last_name> Hao</last_name>
+<chinese_name>郝后成</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0309</id>
+<english_name>Judy Liu</english_name>
+<last_name> Liu</last_name>
+<chinese_name>刘诗洁</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0310</id>
+<english_name>Dave Wu</english_name>
+<last_name> Wu</last_name>
+<chinese_name>邬长春</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0312</id>
+<english_name>Lance Liang</english_name>
+<last_name> Liang</last_name>
+<chinese_name>梁锦</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0315</id>
+<english_name>Jose Deng</english_name>
+<last_name> Deng</last_name>
+<chinese_name>邓川</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0323</id>
+<english_name>Kalin Chen</english_name>
+<last_name> Chen</last_name>
+<chinese_name>陈琳敏</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0325</id>
+<english_name>Andrew Du</english_name>
+<last_name> Du</last_name>
+<chinese_name>杜欣</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0326</id>
+<english_name>Richie Liu</english_name>
+<last_name> Liu</last_name>
+<chinese_name>刘鹏</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0327</id>
+<english_name>Alvin Qiu</english_name>
+<last_name> Qiu</last_name>
+<chinese_name>邱启航</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0328</id>
+<english_name>Morgan Qin</english_name>
+<last_name> Qin</last_name>
+<chinese_name>覃一斐</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0330</id>
+<english_name>Eva Cheng</english_name>
+<last_name> Cheng</last_name>
+<chinese_name>成涛</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0334</id>
+<english_name>Dylan Yu</english_name>
+<last_name> Yu</last_name>
+<chinese_name>余伟</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0335</id>
+<english_name>Monica Xiao</english_name>
+<last_name> Xiao</last_name>
+<chinese_name>肖瑶</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0337</id>
+<english_name>Leon Li</english_name>
+<last_name> Li</last_name>
+<chinese_name>李一航</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0338</id>
+<english_name>John Cheng</english_name>
+<last_name> Cheng</last_name>
+<chinese_name>程炯</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0339</id>
+<english_name>Kristin Liu</english_name>
+<last_name> Liu</last_name>
+<chinese_name>刘圆圆</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0340</id>
+<english_name>Evan Qu</english_name>
+<last_name> Qu</last_name>
+<chinese_name>曲阳</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0342</id>
+<english_name>Sarah Zhou</english_name>
+<last_name> Zhou</last_name>
+<chinese_name>周朋肖</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0344</id>
+<english_name>Jarry Zhou</english_name>
+<last_name> Zhou</last_name>
+<chinese_name>周坚林</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0345</id>
+<english_name>Shiny Wu</english_name>
+<last_name> Wu</last_name>
+<chinese_name>吴佳珈</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0346</id>
+<english_name>Zachary Hou</english_name>
+<last_name> Hou</last_name>
+<chinese_name>侯宗</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0347</id>
+<english_name>Jayden Wang</english_name>
+<last_name> Wang</last_name>
+<chinese_name>王威</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0349</id>
+<english_name>Martin Jiang</english_name>
+<last_name> Jiang</last_name>
+<chinese_name>蒋欢</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0350</id>
+<english_name>Rex Lu</english_name>
+<last_name> Lu</last_name>
+<chinese_name>卢焕文</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0351</id>
+<english_name>Anthony Zhang</english_name>
+<last_name> Zhang</last_name>
+<chinese_name>张琪</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0352</id>
+<english_name>Steven Wang</english_name>
+<last_name> Wang</last_name>
+<chinese_name>王东旗</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0353</id>
+<english_name>Stevie Qiao</english_name>
+<last_name> Qiao</last_name>
+<chinese_name>乔龙</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0354</id>
+<english_name>Lynn Li</english_name>
+<last_name> Li</last_name>
+<chinese_name>李勇</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0355</id>
+<english_name>Burke Yang</english_name>
+<last_name> Yang</last_name>
+<chinese_name>杨永川</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0356</id>
+<english_name>Latif Lan</english_name>
+<last_name> Lan</last_name>
+<chinese_name>蓝家正</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0357</id>
+<english_name>Eben Xu</english_name>
+<last_name> Xu</last_name>
+<chinese_name>徐士义</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0360</id>
+<english_name>Bob Chen</english_name>
+<last_name> Chen</last_name>
+<chinese_name>陈滔</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0361</id>
+<english_name>Myron Li</english_name>
+<last_name> Li</last_name>
+<chinese_name>李敏</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0362</id>
+<english_name>Bernie He</english_name>
+<last_name> He</last_name>
+<chinese_name>何磊斌</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0364</id>
+<english_name>Brain Xian</english_name>
+<last_name> Xian</last_name>
+<chinese_name>鲜克锦</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0367</id>
+<english_name>Ethan Li</english_name>
+<last_name> Li</last_name>
+<chinese_name>李乐</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0368</id>
+<english_name>Pearl Zhang</english_name>
+<last_name> Zhang</last_name>
+<chinese_name>张蕊</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0369</id>
+<english_name>Shaw He</english_name>
+<last_name> He</last_name>
+<chinese_name>何潇</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0370</id>
+<english_name>Nemo Huang</english_name>
+<last_name> Huang</last_name>
+<chinese_name>黄敏彧</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0371</id>
+<english_name>Troy Yang</english_name>
+<last_name> Yang</last_name>
+<chinese_name>杨勇智</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0372</id>
+<english_name>Lee Li</english_name>
+<last_name> Li</last_name>
+<chinese_name>李乔军</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0373</id>
+<english_name>Ronnie Wang</english_name>
+<last_name> Wang</last_name>
+<chinese_name>王强</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0375</id>
+<english_name>Tom Xu</english_name>
+<last_name> Xu</last_name>
+<chinese_name>徐明</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0376</id>
+<english_name>Charles Li</english_name>
+<last_name> Li</last_name>
+<chinese_name>李欣</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0377</id>
+<english_name>Tony Yan</english_name>
+<last_name> Yan</last_name>
+<chinese_name>严海天</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0378</id>
+<english_name>Judy Huang</english_name>
+<last_name> Huang</last_name>
+<chinese_name>黄婧娴</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0379</id>
+<english_name>Ruby Wang</english_name>
+<last_name> Wang</last_name>
+<chinese_name>王倩</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0380</id>
+<english_name>Penny Peng</english_name>
+<last_name> Peng</last_name>
+<chinese_name>彭娇娇</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0381</id>
+<english_name>Eleven Chen</english_name>
+<last_name> Chen</last_name>
+<chinese_name>陈俊</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0382</id>
+<english_name>Jim Luo</english_name>
+<last_name> Luo</last_name>
+<chinese_name>罗进</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0383</id>
+<english_name>Liya Peng</english_name>
+<last_name> Peng</last_name>
+<chinese_name>彭巧然</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0384</id>
+<english_name>Jason Chen</english_name>
+<last_name> Chen</last_name>
+<chinese_name>陈永庆</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0385</id>
+<english_name>Owen Zhang</english_name>
+<last_name> Zhang</last_name>
+<chinese_name>  张博睿</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0386</id>
+<english_name>Samuel Tian</english_name>
+<last_name> Tian</last_name>
+<chinese_name>田冬</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0387</id>
+<english_name>Wilson Du</english_name>
+<last_name> Du</last_name>
+<chinese_name>杜翔</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0388</id>
+<english_name>John Gao</english_name>
+<last_name> Gao</last_name>
+<chinese_name>高鹏</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0389</id>
+<english_name>Mory Yang</english_name>
+<last_name> Yang</last_name>
+<chinese_name>杨森</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0390</id>
+<english_name>Patrick Wu</english_name>
+<last_name> Wu</last_name>
+<chinese_name>吴成俊</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0391</id>
+<english_name>Bruce LI</english_name>
+<last_name> LI</last_name>
+<chinese_name>李其</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0393</id>
+<english_name>Leslie Cao</english_name>
+<last_name> Cao</last_name>
+<chinese_name>曹磊</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0394</id>
+<english_name>Gray Yang</english_name>
+<last_name> Yang</last_name>
+<chinese_name>杨滔滔</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0395</id>
+<english_name>Michael Li</english_name>
+<last_name> Li</last_name>
+<chinese_name>李环冀</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0399</id>
+<english_name>Yvan Li</english_name>
+<last_name> Li</last_name>
+<chinese_name>黎建</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0401</id>
+<english_name>Becky Hu</english_name>
+<last_name> Hu</last_name>
+<chinese_name>胡颖</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0402</id>
+<english_name>Catherine Zhang</english_name>
+<last_name> Zhang</last_name>
+<chinese_name>张芳</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0403</id>
+<english_name>Clarire Liang</english_name>
+<last_name> Liang</last_name>
+<chinese_name>梁金丹</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0404</id>
+<english_name>Zoe Wu</english_name>
+<last_name> Wu</last_name>
+<chinese_name>吴嘉欣</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0405</id>
+<english_name>Lucy Chen</english_name>
+<last_name> Chen</last_name>
+<chinese_name>陈阳</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0406</id>
+<english_name>Fen Zheng</english_name>
+<last_name> Zheng</last_name>
+<chinese_name>郑海峰</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0409</id>
+<english_name>Gene Feng</english_name>
+<last_name> Feng</last_name>
+<chinese_name>冯建</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0410</id>
+<english_name>Tony Chen</english_name>
+<last_name> Chen</last_name>
+<chinese_name>陈刚</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0411</id>
+<english_name>Joseph Shui</english_name>
+<last_name> Shui</last_name>
+<chinese_name>税明</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0412</id>
+<english_name>Violet Lv</english_name>
+<last_name> Lv</last_name>
+<chinese_name>吕纯红</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0413</id>
+<english_name>Danny Nie</english_name>
+<last_name> Nie</last_name>
+<chinese_name>聂泳东</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0415</id>
+<english_name>Jane Luo</english_name>
+<last_name> Luo</last_name>
+<chinese_name>罗亚玲</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0416</id>
+<english_name>Harry Tan</english_name>
+<last_name> Tan</last_name>
 <chinese_name>谭秀江</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 10:41:38</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0008</id>
-<english_name>roy008</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang008</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0417</id>
+<english_name>Charles Wang</english_name>
+<last_name> Wang</last_name>
+<chinese_name>王翊</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:09</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0009</id>
-<english_name>roy009</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang009</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0418</id>
+<english_name>Carey Liu</english_name>
+<last_name> Liu</last_name>
+<chinese_name>刘柳</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:09</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0010</id>
-<english_name>roy010</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang010</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0419</id>
+<english_name>Wade Fang</english_name>
+<last_name> Fang</last_name>
+<chinese_name>方威</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:10</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0011</id>
-<english_name>roy011</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang011</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0420</id>
+<english_name>Carson Wang</english_name>
+<last_name> Wang</last_name>
+<chinese_name>王于</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:10</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0012</id>
-<english_name>roy012</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang012</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0422</id>
+<english_name>Frankie Wen</english_name>
+<last_name> Wen</last_name>
+<chinese_name>文强</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:10</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0013</id>
-<english_name>roy013</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang013</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0423</id>
+<english_name>Fred Chen</english_name>
+<last_name> Chen</last_name>
+<chinese_name>陈涛</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:10</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0014</id>
-<english_name>roy014</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang014</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0424</id>
+<english_name>Owen Luo</english_name>
+<last_name> Luo</last_name>
+<chinese_name>罗韬</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:10</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0015</id>
-<english_name>roy015</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang015</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0425</id>
+<english_name>Sven Liu</english_name>
+<last_name> Liu</last_name>
+<chinese_name>刘凌骅</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:10</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0016</id>
-<english_name>roy016</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang016</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0426</id>
+<english_name>Mark Ma</english_name>
+<last_name> Ma</last_name>
+<chinese_name>马健珂</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:10</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0017</id>
-<english_name>roy017</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang017</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0427</id>
+<english_name>Felix Luo</english_name>
+<last_name> Luo</last_name>
+<chinese_name>罗飞</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:10</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0018</id>
-<english_name>roy018</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang018</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0429</id>
+<english_name>Ronnie Cao</english_name>
+<last_name> Cao</last_name>
+<chinese_name>曹坤祥</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:10</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0019</id>
-<english_name>roy019</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang019</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0430</id>
+<english_name>Zane Zhang</english_name>
+<last_name> Zhang</last_name>
+<chinese_name>张建军</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:10</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0020</id>
-<english_name>roy020</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang020</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0431</id>
+<english_name>Finley Feng</english_name>
+<last_name> Feng</last_name>
+<chinese_name>冯剑涛</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:10</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0021</id>
-<english_name>roy021</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang021</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0432</id>
+<english_name>Zoe Zhong</english_name>
+<last_name> Zhong</last_name>
+<chinese_name>钟毓</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:10</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0022</id>
-<english_name>roy022</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang022</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0433</id>
+<english_name>Joey Zhou</english_name>
+<last_name> Zhou</last_name>
+<chinese_name>周阳</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:10</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0023</id>
-<english_name>roy023</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang023</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0434</id>
+<english_name>Meggie Ma</english_name>
+<last_name> Ma</last_name>
+<chinese_name>马丽</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:10</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0024</id>
-<english_name>roy024</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang024</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0435</id>
+<english_name>Fred Wang</english_name>
+<last_name> Wang</last_name>
+<chinese_name>王煜</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:10</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0025</id>
-<english_name>roy025</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang025</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0436</id>
+<english_name>Roy Yan</english_name>
+<last_name> Yan</last_name>
+<chinese_name>严旭</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:10</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0026</id>
-<english_name>roy026</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang026</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0437</id>
+<english_name>Truman Yan</english_name>
+<last_name> Yan</last_name>
+<chinese_name>鄢康乐</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:10</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0027</id>
-<english_name>roy027</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang027</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<id>CD0438</id>
+<english_name>Gabby Zheng</english_name>
+<last_name> Zheng</last_name>
+<chinese_name>郑廷俊</chinese_name>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:11</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0028</id>
-<english_name>roy028</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang028</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:11</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0029</id>
-<english_name>roy029</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang029</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:11</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0030</id>
-<english_name>roy030</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang030</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:11</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0031</id>
-<english_name>roy031</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang031</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:11</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0032</id>
-<english_name>roy032</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang032</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:11</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0033</id>
-<english_name>roy033</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang033</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:11</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0034</id>
-<english_name>roy034</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang034</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:11</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0035</id>
-<english_name>roy035</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang035</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:11</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0036</id>
-<english_name>roy036</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang036</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:12</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0037</id>
-<english_name>roy037</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang037</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:12</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0038</id>
-<english_name>roy038</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang038</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:12</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0039</id>
-<english_name>roy039</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang039</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:12</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0040</id>
-<english_name>roy040</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang040</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:12</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0041</id>
-<english_name>roy041</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang041</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:12</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0042</id>
-<english_name>roy042</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang042</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:12</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0043</id>
-<english_name>roy043</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang043</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:12</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0044</id>
-<english_name>roy044</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang044</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:12</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0045</id>
-<english_name>roy045</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang045</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:12</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0046</id>
-<english_name>roy046</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang046</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:12</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0047</id>
-<english_name>roy047</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang047</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:12</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0048</id>
-<english_name>roy048</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang048</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:12</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0049</id>
-<english_name>roy049</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang049</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:12</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0050</id>
-<english_name>roy050</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang050</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:12</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0051</id>
-<english_name>roy051</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang051</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:13</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0052</id>
-<english_name>roy052</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang052</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:13</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0053</id>
-<english_name>roy053</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang053</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:13</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0054</id>
-<english_name>roy054</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang054</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:13</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0055</id>
-<english_name>roy055</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang055</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:13</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0056</id>
-<english_name>roy056</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang056</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:13</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0057</id>
-<english_name>roy057</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang057</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:13</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0058</id>
-<english_name>roy058</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang058</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:13</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0059</id>
-<english_name>roy059</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang059</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:13</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0060</id>
-<english_name>roy060</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang060</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:13</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0061</id>
-<english_name>roy061</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang061</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:13</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0062</id>
-<english_name>roy062</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang062</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:13</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0063</id>
-<english_name>roy063</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang063</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:13</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0064</id>
-<english_name>roy064</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang064</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:13</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0065</id>
-<english_name>roy065</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang065</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:13</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0066</id>
-<english_name>roy066</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang066</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:14</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0067</id>
-<english_name>roy067</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang067</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:14</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0068</id>
-<english_name>roy068</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang068</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:14</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0069</id>
-<english_name>roy069</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang069</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:14</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0070</id>
-<english_name>roy070</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang070</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:14</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0071</id>
-<english_name>roy071</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang071</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:14</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0072</id>
-<english_name>roy072</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang072</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:14</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0073</id>
-<english_name>roy073</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang073</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:14</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0074</id>
-<english_name>roy074</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang074</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:14</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0075</id>
-<english_name>roy075</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang075</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:14</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0076</id>
-<english_name>roy076</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang076</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:14</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0077</id>
-<english_name>roy077</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang077</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:14</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0078</id>
-<english_name>roy078</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang078</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:14</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0079</id>
-<english_name>roy079</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang079</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:14</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0080</id>
-<english_name>roy080</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang080</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:15</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0081</id>
-<english_name>roy081</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang081</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:15</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0082</id>
-<english_name>roy082</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang082</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:15</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0083</id>
-<english_name>roy083</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang083</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:15</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0084</id>
-<english_name>roy084</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang084</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:15</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0085</id>
-<english_name>roy085</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang085</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:15</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0086</id>
-<english_name>roy086</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang086</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:15</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0087</id>
-<english_name>roy087</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang087</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:15</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0088</id>
-<english_name>roy088</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang088</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:15</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0089</id>
-<english_name>roy089</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang089</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:15</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0090</id>
-<english_name>roy090</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang090</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:15</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0091</id>
-<english_name>roy091</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang091</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:15</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0092</id>
-<english_name>roy092</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang092</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:15</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0093</id>
-<english_name>roy093</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang093</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:15</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0094</id>
-<english_name>roy094</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang094</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:15</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0095</id>
-<english_name>roy095</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang095</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:15</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0096</id>
-<english_name>roy096</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang096</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:16</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0097</id>
-<english_name>roy097</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang097</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:16</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0098</id>
-<english_name>roy098</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang098</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:16</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0099</id>
-<english_name>roy099</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang099</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:16</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0100</id>
-<english_name>roy100</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang100</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:16</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0101</id>
-<english_name>roy101</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang101</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:16</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0102</id>
-<english_name>roy102</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang102</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:16</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0103</id>
-<english_name>roy103</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang103</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:16</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0104</id>
-<english_name>roy104</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang104</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:16</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0105</id>
-<english_name>roy105</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang105</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:16</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0106</id>
-<english_name>roy106</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang106</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:16</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0107</id>
-<english_name>roy107</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang107</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:16</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0108</id>
-<english_name>roy108</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang108</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:16</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0109</id>
-<english_name>roy109</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang109</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:17</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0110</id>
-<english_name>roy110</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang110</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:17</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0111</id>
-<english_name>roy111</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang111</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:17</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0112</id>
-<english_name>roy112</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang112</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:17</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0113</id>
-<english_name>roy113</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang113</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:17</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0114</id>
-<english_name>roy114</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang114</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:17</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0115</id>
-<english_name>roy115</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang115</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:17</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0116</id>
-<english_name>roy116</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang116</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:17</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0117</id>
-<english_name>roy117</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang117</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:17</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0118</id>
-<english_name>roy118</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang118</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:17</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0119</id>
-<english_name>roy119</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang119</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:17</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0120</id>
-<english_name>roy120</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang120</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:17</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0121</id>
-<english_name>roy121</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang121</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:17</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0122</id>
-<english_name>roy122</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang122</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:17</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0123</id>
-<english_name>roy123</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang123</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:17</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0124</id>
-<english_name>roy124</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang124</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:18</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0125</id>
-<english_name>roy125</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang125</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:18</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0126</id>
-<english_name>roy126</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang126</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:18</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0127</id>
-<english_name>roy127</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang127</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:18</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0128</id>
-<english_name>roy128</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang128</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:18</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0129</id>
-<english_name>roy129</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang129</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:18</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0130</id>
-<english_name>roy130</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang130</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:18</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0131</id>
-<english_name>roy131</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang131</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:18</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0132</id>
-<english_name>roy132</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang132</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:18</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0133</id>
-<english_name>roy133</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang133</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:18</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0134</id>
-<english_name>roy134</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang134</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:18</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0135</id>
-<english_name>roy135</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang135</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:18</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0136</id>
-<english_name>roy136</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang136</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:18</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0137</id>
-<english_name>roy137</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang137</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:18</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0138</id>
-<english_name>roy138</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang138</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:18</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0139</id>
-<english_name>roy139</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang139</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:19</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0140</id>
-<english_name>roy140</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang140</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:19</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0141</id>
-<english_name>roy141</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang141</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:19</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0142</id>
-<english_name>roy142</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang142</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:19</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0143</id>
-<english_name>roy143</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang143</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:19</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0144</id>
-<english_name>roy144</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang144</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:19</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0145</id>
-<english_name>roy145</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang145</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:19</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0146</id>
-<english_name>roy146</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang146</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:19</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0147</id>
-<english_name>roy147</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang147</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:19</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0148</id>
-<english_name>roy148</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang148</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:19</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0149</id>
-<english_name>roy149</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang149</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:19</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0150</id>
-<english_name>roy150</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang150</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:19</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0151</id>
-<english_name>roy151</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang151</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:19</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0152</id>
-<english_name>roy152</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang152</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:19</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0153</id>
-<english_name>roy153</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang153</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:19</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0154</id>
-<english_name>roy154</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang154</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:20</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0155</id>
-<english_name>roy155</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang155</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:20</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0156</id>
-<english_name>roy156</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang156</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:20</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0157</id>
-<english_name>roy157</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang157</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:20</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0158</id>
-<english_name>roy158</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang158</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:20</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0159</id>
-<english_name>roy159</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang159</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:20</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0160</id>
-<english_name>roy160</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang160</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:20</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0161</id>
-<english_name>roy161</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang161</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:20</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0162</id>
-<english_name>roy162</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang162</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:20</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0163</id>
-<english_name>roy163</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang163</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:20</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0164</id>
-<english_name>roy164</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang164</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:20</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0165</id>
-<english_name>roy165</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang165</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:20</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0166</id>
-<english_name>roy166</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang166</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:20</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0167</id>
-<english_name>roy167</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang167</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:21</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0168</id>
-<english_name>roy168</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang168</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:21</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0169</id>
-<english_name>roy169</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang169</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:21</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0170</id>
-<english_name>roy170</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang170</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:21</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0171</id>
-<english_name>roy171</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang171</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:21</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0172</id>
-<english_name>roy172</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang172</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:21</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0173</id>
-<english_name>roy173</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang173</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:21</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0174</id>
-<english_name>roy174</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang174</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:21</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0175</id>
-<english_name>roy175</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang175</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:21</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0176</id>
-<english_name>roy176</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang176</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:21</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0177</id>
-<english_name>roy177</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang177</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:22</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0178</id>
-<english_name>roy178</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang178</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:22</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0179</id>
-<english_name>roy179</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang179</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:22</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0180</id>
-<english_name>roy180</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang180</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:22</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0181</id>
-<english_name>roy181</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang181</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:22</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0182</id>
-<english_name>roy182</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang182</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:22</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0183</id>
-<english_name>roy183</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang183</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:22</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0184</id>
-<english_name>roy184</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang184</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:22</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0185</id>
-<english_name>roy185</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang185</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:22</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0186</id>
-<english_name>roy186</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang186</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:22</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0187</id>
-<english_name>roy187</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang187</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:22</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0188</id>
-<english_name>roy188</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang188</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:22</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0189</id>
-<english_name>roy189</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang189</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:22</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0190</id>
-<english_name>roy190</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang190</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:22</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0191</id>
-<english_name>roy191</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang191</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:22</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0192</id>
-<english_name>roy192</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang192</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:23</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0193</id>
-<english_name>roy193</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang193</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:23</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0194</id>
-<english_name>roy194</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang194</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:23</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0195</id>
-<english_name>roy195</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang195</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:23</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0196</id>
-<english_name>roy196</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang196</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:23</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0197</id>
-<english_name>roy197</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang197</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:23</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0198</id>
-<english_name>roy198</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang198</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:23</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0199</id>
-<english_name>roy199</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang199</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:23</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0200</id>
-<english_name>roy200</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang200</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:23</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0201</id>
-<english_name>roy201</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang201</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:23</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0202</id>
-<english_name>roy202</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang202</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:23</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0203</id>
-<english_name>roy203</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang203</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:23</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0204</id>
-<english_name>roy204</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang204</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:23</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0205</id>
-<english_name>roy205</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang205</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:23</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0206</id>
-<english_name>roy206</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang206</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:23</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0207</id>
-<english_name>roy207</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang207</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:24</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0208</id>
-<english_name>roy208</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang208</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:24</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0209</id>
-<english_name>roy209</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang209</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:24</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0210</id>
-<english_name>roy210</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang210</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:24</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0211</id>
-<english_name>roy211</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang211</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:24</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0212</id>
-<english_name>roy212</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang212</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:24</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0213</id>
-<english_name>roy213</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang213</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:24</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0214</id>
-<english_name>roy214</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang214</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:24</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0215</id>
-<english_name>roy215</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang215</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:24</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0216</id>
-<english_name>roy216</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang216</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:24</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0217</id>
-<english_name>roy217</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang217</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:24</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0218</id>
-<english_name>roy218</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang218</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:24</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0219</id>
-<english_name>roy219</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang219</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:24</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0220</id>
-<english_name>roy220</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang220</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:24</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0221</id>
-<english_name>roy221</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang221</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:25</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0222</id>
-<english_name>roy222</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang222</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:25</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0223</id>
-<english_name>roy223</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang223</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:25</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0224</id>
-<english_name>roy224</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang224</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:25</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0225</id>
-<english_name>roy225</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang225</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:25</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0226</id>
-<english_name>roy226</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang226</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:25</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0227</id>
-<english_name>roy227</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang227</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:25</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0228</id>
-<english_name>roy228</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang228</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:25</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0229</id>
-<english_name>roy229</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang229</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:25</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0230</id>
-<english_name>roy230</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang230</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:25</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0231</id>
-<english_name>roy231</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang231</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:25</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0232</id>
-<english_name>roy232</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang232</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:25</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0233</id>
-<english_name>roy233</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang233</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:25</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0234</id>
-<english_name>roy234</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang234</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:25</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0235</id>
-<english_name>roy235</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang235</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:26</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0236</id>
-<english_name>roy236</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang236</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:26</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0237</id>
-<english_name>roy237</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang237</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:26</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0238</id>
-<english_name>roy238</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang238</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:26</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0239</id>
-<english_name>roy239</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang239</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:26</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0240</id>
-<english_name>roy240</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang240</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:26</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0241</id>
-<english_name>roy241</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang241</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:26</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0242</id>
-<english_name>roy242</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang242</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:26</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0243</id>
-<english_name>roy243</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang243</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:26</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0244</id>
-<english_name>roy244</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang244</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:26</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0245</id>
-<english_name>roy245</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang245</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:26</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0246</id>
-<english_name>roy246</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang246</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:26</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0247</id>
-<english_name>roy247</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang247</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:26</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0248</id>
-<english_name>roy248</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang248</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:26</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0249</id>
-<english_name>roy249</english_name>
-<last_name>Zhang</last_name>
-<chinese_name>zhang249</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/9 14:42:27</modifi_time>
-</RECORD>
-<RECORD>
-<id>CDH0439</id>
-<english_name>roy</english_name>
-<last_name>Zhang</last_name>
+<id>CD0439</id>
+<english_name>Roy Zhang</english_name>
+<last_name> Zhang</last_name>
 <chinese_name>张兵</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 10:38:30</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>CDH0440</id>
-<english_name>victor</english_name>
-<last_name>Li</last_name>
+<id>CD0440</id>
+<english_name>Victor Li</english_name>
+<last_name> Li</last_name>
 <chinese_name>李洪亮</chinese_name>
-<user_img>http://www.qqbody.com/uploads/allimg/120325/21292419A-9.jpg</user_img>
+<user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>
-<modifi_time>2015/1/9 10:38:45</modifi_time>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0441</id>
+<english_name>Emma He</english_name>
+<last_name> He</last_name>
+<chinese_name>何琦</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0442</id>
+<english_name>Lily Guo</english_name>
+<last_name> Guo</last_name>
+<chinese_name>郭秀莉</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0443</id>
+<english_name>Steve Li</english_name>
+<last_name> Li</last_name>
+<chinese_name>李亚非</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0444</id>
+<english_name>Jackson Yu</english_name>
+<last_name> Yu</last_name>
+<chinese_name>余公猛</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0445</id>
+<english_name>Eva Liao</english_name>
+<last_name> Liao</last_name>
+<chinese_name>廖彦瑾</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0446</id>
+<english_name>Karin Zhang</english_name>
+<last_name> Zhang</last_name>
+<chinese_name>张玉婷</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>CD0447</id>
+<english_name>Nick Han</english_name>
+<last_name> Han</last_name>
+<chinese_name>韩晓军</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>Intern 0086</id>
+<english_name>Bowen Du</english_name>
+<last_name> Du</last_name>
+<chinese_name>杜博文</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>Intern 0087</id>
+<english_name>Karen Xue</english_name>
+<last_name> Xue</last_name>
+<chinese_name>薛蓉</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>Intern0071</id>
+<english_name>Grace Chen</english_name>
+<last_name> Chen</last_name>
+<chinese_name>陈瑶</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>Intern0073</id>
+<english_name>Mandy Chen</english_name>
+<last_name> Chen</last_name>
+<chinese_name>陈玉</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>Intern0074</id>
+<english_name>Irene Xu</english_name>
+<last_name> Xu</last_name>
+<chinese_name>许雅琳</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>Intern0076</id>
+<english_name>Leila Xiao</english_name>
+<last_name> Xiao</last_name>
+<chinese_name>肖苗</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>Intern0081</id>
+<english_name>Fanny Chen</english_name>
+<last_name> Chen</last_name>
+<chinese_name>陈阳敏</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>Intern0083</id>
+<english_name>Lisary Yue</english_name>
+<last_name> Yue</last_name>
+<chinese_name>岳玲</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>Intern0084</id>
+<english_name>Sally Lai</english_name>
+<last_name> Lai</last_name>
+<chinese_name>赖复春</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>Intern0085</id>
+<english_name>Diana Min</english_name>
+<last_name> Min</last_name>
+<chinese_name>闵婷婷</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 </RECORDS>

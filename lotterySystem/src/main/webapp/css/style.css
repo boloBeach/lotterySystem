@@ -100,15 +100,16 @@ em {
 	height: 600px;
 	width: 95%;
 	margin: 0 auto;
-	font-size: 32px;
+	font-size: 25px;
 }
+
 
 .person {
 	width: 16%;
 	height: 200px;
 	padding-top: 15px;
 	line-height: 50px;
-	border-radius: 50%;
+	border-radius: 5%;
 	margin-left:50px;
 	margin-top:20px;
 	float: left;
