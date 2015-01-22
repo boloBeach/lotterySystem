@@ -38,35 +38,70 @@
 					<tr>
 						<th scope="row">A</th>
 						<c:forEach  items='${sessionScope.users}' begin="0" end="9" var="user">
-						 <td>${user.id}<br/>${user.englishName}<br/>${user.chineseName}</td>
+						 <c:choose>
+						 	<c:when test='${user.prizeType eq "bigAward"}'>
+							 <td style="background-color: red;">${user.id}<br/>${user.englishName}<br/>${user.chineseName}</td>
+						 	</c:when>
+						 	<c:otherwise>
+							 <td>${user.id}<br/>${user.englishName}<br/>${user.chineseName}</td>
+						 	</c:otherwise>
+						 </c:choose>
 						</c:forEach>
 					</tr>
 				
 				<tr>
 					<th scope="row">B</th>
 					<c:forEach  items='${sessionScope.users}' begin="10" end="19" var="user">
-						 <td>${user.id}<br/>${user.englishName}<br/>${user.chineseName}</td>
+						 <c:choose>
+						 	<c:when test='${user.prizeType eq "bigAward"}'>
+							 <td style="background-color: red;">${user.id}<br/>${user.englishName}<br/>${user.chineseName}</td>
+						 	</c:when>
+						 	<c:otherwise>
+							 <td>${user.id}<br/>${user.englishName}<br/>${user.chineseName}</td>
+						 	</c:otherwise>
+						 </c:choose>
 						</c:forEach>
 				</tr>
 				
 				<tr>
 					<th scope="row">C</th>
 				<c:forEach  items='${sessionScope.users}' begin="20" end="29" var="user">
-						 <td>${user.id}<br/>${user.englishName}<br/>${user.chineseName}</td>
+						 <c:choose>
+						 	<c:when test='${user.prizeType eq "bigAward"}'>
+							 <td style="background-color: red;">${user.id}<br/>${user.englishName}<br/>${user.chineseName}</td>
+						 	</c:when>
+						 	<c:otherwise>
+							 <td>${user.id}<br/>${user.englishName}<br/>${user.chineseName}</td>
+						 	</c:otherwise>
+						 </c:choose>
 						</c:forEach>
 				</tr>
 				
 				<tr>
 					<th scope="row">D</th>
 					<c:forEach  items='${sessionScope.users}' begin="30" end="39" var="user">
-						 <td>${user.id}<br/>${user.englishName}<br/>${user.chineseName}</td>
+						  <c:choose>
+						 	<c:when test='${user.prizeType eq "bigAward"}'>
+							 <td style="background-color: red;">${user.id}<br/>${user.englishName}<br/>${user.chineseName}</td>
+						 	</c:when>
+						 	<c:otherwise>
+							 <td>${user.id}<br/>${user.englishName}<br/>${user.chineseName}</td>
+						 	</c:otherwise>
+						 </c:choose>
 						</c:forEach>
 				</tr>
 				
 				<tr>
 					<th scope="row">E</th>
 					<c:forEach  items='${sessionScope.users}' begin="40" end="49" var="user">
-						 <td>${user.id}<br/>${user.englishName}<br/>${user.chineseName}</td>
+						  <c:choose>
+						 	<c:when test='${user.prizeType eq "bigAward"}'>
+							 <td style="background-color: red;">${user.id}<br/>${user.englishName}<br/>${user.chineseName}</td>
+						 	</c:when>
+						 	<c:otherwise>
+							 <td>${user.id}<br/>${user.englishName}<br/>${user.chineseName}</td>
+						 	</c:otherwise>
+						 </c:choose>
 						</c:forEach>
 				</tr>
 				

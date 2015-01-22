@@ -25,7 +25,7 @@ public class GetGroupUsersInfoServlet extends HttpServlet {
 		request.getSession().setAttribute("group", group);
 		
 		UsersService usersService = new UsersService();
-		List<UsersBean> usersBeans = usersService.getListUsersBeans();
+		List<UsersBean> usersBeans = usersService.getAllUsersBeans();
 		List<UsersBean> list=null;
 		if("A".equalsIgnoreCase(group)){
 			list = usersBeans.subList(0, 50);

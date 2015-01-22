@@ -63,7 +63,7 @@ $(document).ready(function(){
 					cache : false,
 					dataType : 'json',
 					data : {
-						start:"start"
+						bigaward:"yes"
 					},
 					success : function(data) {
 						//alert(data.length);

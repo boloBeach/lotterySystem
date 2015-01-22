@@ -31,13 +31,21 @@ public class UsersServlet extends HttpServlet {
 		response.setHeader("Cache-Control", "no-cache");
 		response.setHeader("Pragma", "no-cache");
 		String start = request.getParameter("start");
+		String bigaward = request.getParameter("bigaward");
 		PrintWriter out = response.getWriter();
 		Gson gson = new Gson();
+		
+		
+		
 		if (!StringUtil.isNull(start)) {
 			List<UsersBean> listUsersBeans = usersService.getListUsersBeans();
 			System.out.println("Users number: "+listUsersBeans.size());
 			out.write(gson.toJson(listUsersBeans));
-		} else {
+		} else if(bigaward!=null){
+			List<UsersBean> listUsersBeans = usersService.getAllUsersBeans();
+			System.out.println("Users number: "+listUsersBeans.size());
+			out.write(gson.toJson(listUsersBeans));
+		}else {
 			String error = "sorry the start is null";
 			out.write(gson.toJson(error));
 		}
