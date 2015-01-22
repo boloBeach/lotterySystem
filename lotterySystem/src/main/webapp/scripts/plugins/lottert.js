@@ -57,7 +57,7 @@ $(document).ready(function() {
 										}
 										
 
-										currentPrize.html("Current Prize:<a id=\""+prizeData[prizeCount].prizeName+"\" ><span style=\"font-size: 20px;\">"+ prize.prizeName+ "</span></a>");
+										currentPrize.find("span").html("<a id=\""+prizeData[prizeCount].prizeName+"\" ><span style=\"font-size: 20px;\">"+ prize.prizeName+ "</span></a>");
 										
 										$("#arrayLength").val(prize.prizedPersonNum);
 										$("#round").val(prize.round);

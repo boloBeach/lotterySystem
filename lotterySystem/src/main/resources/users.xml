@@ -2371,26 +2371,6 @@
 <modifi_time>2015/1/21 13:43:34</modifi_time>
 </RECORD>
 <RECORD>
-<id>Intern 0086</id>
-<english_name>Bowen Du</english_name>
-<last_name> Du</last_name>
-<chinese_name>杜博文</chinese_name>
-<user_img></user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/21 13:43:34</modifi_time>
-</RECORD>
-<RECORD>
-<id>Intern 0087</id>
-<english_name>Karen Xue</english_name>
-<last_name> Xue</last_name>
-<chinese_name>薛蓉</chinese_name>
-<user_img></user_img>
-<prize_type></prize_type>
-<is_delete>0</is_delete>
-<modifi_time>2015/1/21 13:43:34</modifi_time>
-</RECORD>
-<RECORD>
 <id>Intern0071</id>
 <english_name>Grace Chen</english_name>
 <last_name> Chen</last_name>
@@ -2465,6 +2445,26 @@
 <english_name>Diana Min</english_name>
 <last_name> Min</last_name>
 <chinese_name>闵婷婷</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>Intern0086</id>
+<english_name>Bowen Du</english_name>
+<last_name> Du</last_name>
+<chinese_name>杜博文</chinese_name>
+<user_img></user_img>
+<prize_type></prize_type>
+<is_delete>0</is_delete>
+<modifi_time>2015/1/21 13:43:34</modifi_time>
+</RECORD>
+<RECORD>
+<id>Intern0087</id>
+<english_name>Karen Xue</english_name>
+<last_name> Xue</last_name>
+<chinese_name>薛蓉</chinese_name>
 <user_img></user_img>
 <prize_type></prize_type>
 <is_delete>0</is_delete>

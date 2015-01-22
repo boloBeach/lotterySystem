@@ -50,7 +50,7 @@ table.bigaward{
 }
 
 .bigaward tbody td{
-	padding:10px;
+	/* padding:10px; */
     text-align:center;
     background-color:#DEF3CA;
     border: 2px solid #E7EFE0;

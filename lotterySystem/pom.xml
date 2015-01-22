@@ -71,17 +71,20 @@
 		</dependency>
 
 	</dependencies>
+
 	<build>
 		<finalName>lotterySystem</finalName>
 		<plugins>
-        <plugin>
-            <artifactId>maven-compiler-plugin</artifactId>
-            <version>3.1</version>
-            <configuration>
-                <fork>true</fork>
-                <executable>C:\jdk\jdk1.8.0_25\bin\javac.exe</executable>
-            </configuration>
-        </plugin>
-    </plugins>
+			<plugin>
+				<groupId>org.apache.tomcat.maven</groupId>
+				<artifactId>tomcat7-maven-plugin</artifactId>
+				<version>2.1</version>
+				<configuration>
+					<url>http://localhost:9999/manager/text</url>
+					<server>tomcat</server>
+					<!-- <packagingExcludes>WEB-INF/web.xml</packagingExcludes> -->
+				</configuration>
+			</plugin>
+		</plugins>
 	</build>
 </project>

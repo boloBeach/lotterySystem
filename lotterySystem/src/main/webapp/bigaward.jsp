@@ -18,7 +18,7 @@
 		<table class="bigaward">
 			<thead>
 				<tr>
-					<th colspan="11">this is <%=session.getAttribute("group")%> group (<%=session.getAttribute("lowId")%>~~~<%=session.getAttribute("highId")%>)</th>
+					<th colspan="11">GROUP <%=session.getAttribute("group")%> (<%=session.getAttribute("lowId")%>~~~<%=session.getAttribute("highId")%>)</th>
 				</tr>
 				<tr id="trThead">
 					<th>A~E/1~10</th>
