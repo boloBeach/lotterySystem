@@ -8,6 +8,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="css/bigaward.css" />
+<link rel="shortcut icon" href="images/favicon-aaxis.png" type="image/png" />
 <script type="text/javascript" src="scripts/plugins/jquery/jquery.min.js"></script>
 <script type="text/javascript" src="scripts/plugins/bigaward.js"></script>
 <title>大奖</title>
