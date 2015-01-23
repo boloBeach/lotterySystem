@@ -104,6 +104,8 @@ $(document).ready(function(){
 				var bigawardNode =tbody.find("tr:eq("+longitude+") td:eq("+index+")") ;
 				
 				var awardedId = bigawardNode.html().split("<br>")[0];
+				var usernameE = bigawardNode.html().split("<br>")[1];
+				var usernameC = bigawardNode.html().split("<br>")[2];
 				var ids = new Array();
 				ids[0]=awardedId;
 				$.ajax({
@@ -121,11 +123,14 @@ $(document).ready(function(){
 				
 				bigawardNode.css("background-color", "red");
 				showAward.show();
-				showAward.find("div").css("background-color","#DEF3CA").html("<p>Congratulation!</p> "+bigawardNode.html()).animate({
+				$("#userId").html(awardedId);
+				$("#usernameE").html(usernameE);
+				$("#usernameC").html(usernameC);
+				/*showAward.find("div").css("background-color","#DEF3CA").html("<p>Congratulation!</p> "+bigawardNode.html()).animate({
 					width: "70%",
 					height: "80%",
 					opacity: 1
-				},2000);
+				},2000);*/
 			}
 		});
 		
