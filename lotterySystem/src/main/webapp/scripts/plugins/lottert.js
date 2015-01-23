@@ -35,8 +35,8 @@ $(document).ready(function() {
 										if(prizeCount==0||(prizeCount>0&&prizeData[prizeCount].prizeName!=prizeData[prizeCount-1].prizeName)){
 											imageShow.show();
 											imageShow.find("img").attr('style', '').attr("title","点击图片关闭").attr('src', "images/"+prizeData[prizeCount].prizePicName).animate({
-												width: "90%",
-												height: "90%",
+												width: "100%",
+												height: "100%",
 												opacity: 1
 											})
 										}
@@ -45,7 +45,7 @@ $(document).ready(function() {
 										$("#next").attr("disabled", true);
 										
 										if (prizeCount >= prizeData.length) {
-											alert("No prize left");
+											//alert("No prize left");
 											return;
 										}
 										var prize = prizeData[prizeCount];

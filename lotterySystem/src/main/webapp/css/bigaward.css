@@ -105,5 +105,10 @@ table.bigaward{
 	margin:0 auto;
 	color:red;
 	text-align: center;
-	padding-top: 20%;
+	/* padding-top: 20%; */
+}
+.show-userinfo{
+	text-align: center;
+	margin: 0 auto;
+	border: 1px solid red;
 }

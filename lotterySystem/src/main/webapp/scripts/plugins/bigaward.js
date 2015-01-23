@@ -24,6 +24,8 @@ $(document).ready(function(){
 			if(latitude != null){ // 说明纬度已经被选择了,并且执行ajax
 				var bigawardNode = tbody.find("tr:eq("+e+") td:eq("+(latitude-1)+")");
 				var awardedId = bigawardNode.html().split("<br>")[0];
+				var usernameE = bigawardNode.html().split("<br>")[1];
+				var usernameC = bigawardNode.html().split("<br>")[2];
 				var ids = new Array();
 				ids[0]=awardedId;
 				$.ajax({
@@ -41,11 +43,9 @@ $(document).ready(function(){
 				
 				bigawardNode.css("background-color", "red");
 				showAward.show();
-				showAward.find("div").css("background-color","#DEF3CA").html("<p>Congratulation!</p> "+bigawardNode.html()).animate({
-					width: "70%",
-					height: "80%",
-					opacity: 1
-				},2000);
+				$("#userId").html(awardedId);
+				$("#usernameE").html(usernameE);
+				$("#usernameC").html(usernameC);
 			}
 		});
 		
@@ -90,7 +90,6 @@ $(document).ready(function(){
 				var awardedId = bigawardNode.html().split("<br>")[0];
 				var ids = new Array();
 				ids[0]=awardedId;
-				alert(ids);
 				$.ajax({
 					url : "getDataServlet",
 					type : "get",
