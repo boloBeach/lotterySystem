@@ -377,4 +377,44 @@ public class XmlUtil {
 		System.out.println("resultMap:" + resultMap);
 		return resultMap;
 	}
+
+	public List<UsersBean> getBigAwardUsersByXml(Document document) {
+		List<UsersBean> result = new ArrayList<UsersBean>();
+		Element element = document.getRootElement(); // create root element
+		List<Element> listElements = element.getChildren("RECORD");
+		Element recod = null;
+		Element id = null;
+		Element englishName = null;
+		Element chineseName = null;
+		Element lastName = null;
+		Element userImg = null;
+		Element isDelete = null;
+		Element prizeType = null;
+		String isdeleteString = null;
+		for (int i = 0; i < listElements.size(); i++) {
+			recod = listElements.get(i);
+			isDelete = recod.getChild("is_delete");
+			prizeType = recod.getChild("prize_type");
+			isdeleteString = isDelete.getText().trim();
+			
+			String prize = prizeType.getText().trim();
+			if (prize!=null&&prize.equals("bigAward")) {
+				id = recod.getChild("id");
+				englishName = recod.getChild("english_name");
+				chineseName = recod.getChild("chinese_name");
+				lastName = recod.getChild("last_name");
+				userImg = recod.getChild("user_img");
+				UsersBean usersBean = new UsersBean();
+				usersBean.setChineseName(chineseName.getText());
+				usersBean.setEnglishName(englishName.getText());
+				usersBean.setId(id.getText());
+				usersBean.setIsDeleteString(isdeleteString);
+				usersBean.setUserImg(userImg.getText());
+				usersBean.setPrizeType(prizeType.getText());
+				usersBean.setLastName(lastName.getText());
+				result.add(usersBean);
+			}
+		}
+		return result;
+	}
 }

@@ -34,6 +34,18 @@ public class UsersService {
 		List<UsersBean> listUsersBeans = xmlUtil.getAllUsersByXml(document);
 		return listUsersBeans;
 	}
+	public List<UsersBean> getBigAwardUsersBeans() {
+		ClassLoader classLoader = getClass().getClassLoader();
+		classLoader = Thread.currentThread().getContextClassLoader();
+		String xmlPath = classLoader.getResource(Constants.XML_FILE_PATH)
+				.getPath();
+		System.out.println("xmlPath: " + xmlPath);
+		
+		XmlUtil xmlUtil = new XmlUtil(xmlPath);
+		Document document = xmlUtil.readDocument();
+		List<UsersBean> listUsersBeans = xmlUtil.getBigAwardUsersByXml(document);
+		return listUsersBeans;
+	}
 
 	public void updateUsers(String[] ids, String prizeType) {
 		ClassLoader classLoader = getClass().getClassLoader();

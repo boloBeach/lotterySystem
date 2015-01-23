@@ -26,7 +26,7 @@ import com.lotterySystem.constant.Constants;
 
 public class POIUtil {
 
-	public static String[] heads = { "id", "English Name", "Chinese Name",
+	public static String[] heads = { "id", "English Name", "Last_Name","Chinese Name",
 			"Award-Name" };
 	public static String filePath = "AwardedPerson.xls";
 	public static Boolean clearFlag = true;
@@ -176,7 +176,7 @@ public class POIUtil {
 
 			introCell.setCellStyle(style);
 			introCell.setCellValue("Awarded person list");
-			hssfSheet.addMergedRegion(new CellRangeAddress(0, 0, 0, 3));
+			hssfSheet.addMergedRegion(new CellRangeAddress(0, 0, 0, 4));
 
 			// head title row
 			HSSFRow headRow = hssfSheet.createRow(1);
@@ -252,7 +252,7 @@ public class POIUtil {
 
 			introCell.setCellStyle(style);
 			introCell.setCellValue("Awarded Infomation");
-			hssfSheet.addMergedRegion(new CellRangeAddress(0, 0, 0, 3));
+			hssfSheet.addMergedRegion(new CellRangeAddress(0, 0, 0, 4));
 
 			// head title row
 			HSSFRow headRow = hssfSheet.createRow(1);

@@ -26,6 +26,13 @@ public class GetGroupUsersInfoServlet extends HttpServlet {
 		
 		UsersService usersService = new UsersService();
 		List<UsersBean> usersBeans = usersService.getAllUsersBeans();
+		
+		List<UsersBean> bigAwardUsersBeans = usersService.getBigAwardUsersBeans();
+		boolean alarm = false;
+		if(bigAwardUsersBeans!=null&&bigAwardUsersBeans.size()>=4){
+			alarm = true;
+		}
+		
 		List<UsersBean> list=null;
 		if("A".equalsIgnoreCase(group)){
 			list = usersBeans.subList(0, 50);
@@ -44,6 +51,7 @@ public class GetGroupUsersInfoServlet extends HttpServlet {
 		}
 		if(list!=null){
 			request.getSession().setAttribute("users", list);
+			request.getSession().setAttribute("alarm", alarm);
 			request.getSession().setAttribute("lowId",list.get(0).getId() );
 			request.getSession().setAttribute("highId", list.get(list.size()-1).getId());
 		}

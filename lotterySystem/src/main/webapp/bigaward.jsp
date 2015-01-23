@@ -15,6 +15,7 @@
 </head>
 <body>
 	<div>
+	<input type="hidden"  id="alarm"  value="<%=session.getAttribute("alarm")%>"/>
 		<table class="bigaward">
 			<thead>
 				<tr>

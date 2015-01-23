@@ -5,16 +5,28 @@ $(document).ready(function(){
 	var longitude = null; // 经度
 	var latitude = null;// 这个是纬度
 	var tbody = $("#tbody");
+	var alarm = $("#alarm");
 	var showAward =  $(".show-award");
 	showAward.find("div").on("click",function(){
 		showAward.hide();
 	});
+	
+	if(alarm.val()=="true"){
+		alert("此等奖项已经抽取完毕,请勿重复抽取!");
+		//return;
+	}
+	
+	
 	tbody.find("tr").children("th").each(function(e){ // 行(经度)
 		var thNode = $(this);
 		 // 取消上次延时未执行的方法
 	    clearTimeout(TimeFn);
 	    //执行延时
     	thNode.on("dblclick",function(){
+    		if(alarm.val()=="true"){
+    			alert("此等奖项已经抽取完毕,请勿重复抽取!");
+    			return;
+    		}
     		clearTimeout(TimeFn);
 			if(longitude==null){
 				longitude = e;
@@ -75,6 +87,10 @@ $(document).ready(function(){
 		});
 		
 		theadNode.on("dblclick",function(){
+			if(alarm.val()=="true"){
+				alert("此等奖项已经抽取完毕,请勿重复抽取!");
+				return;
+			}
 			clearTimeout(theadTime); // 清楚事件
 			if(latitude == null){
 				latitude = e;
