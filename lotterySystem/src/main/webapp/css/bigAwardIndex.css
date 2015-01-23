@@ -53,7 +53,17 @@ body{
 	line-height:150px;
 	text-align: center;
 }
-
+.boxgridC h3{
+	margin: 10px 10px 0 10px; 
+	color:#FFF; 
+	font-family:"微软雅黑","幼圆",Arial, sans-serif;
+	font-size:32px;
+	letter-spacing:5px; 
+	font-weight: 300;
+	cursor:pointer;
+	line-height:350px;
+	text-align: center;
+}
 a:link,a:visited {
 	color:#3D464B;
 	text-decoration:none;
@@ -122,8 +132,16 @@ li{
 	cursor:pointer;
 }
 
+.boxgridC{
+	width:300px; 
+	height:100%;
+	background:#1999D7; 
+	overflow: hidden; 
+	position: relative;
+	cursor:pointer;
+}
 	
-.boxgrid p {
+.boxgrid p,.boxgridC p {
 	padding: 0 10px; 
 	color:#afafaf; 
 	font-weight:bold; 
@@ -163,6 +181,7 @@ li{
 }
 
 .group-e-content{
+	display:none;
 	margin: 10px;
 }
 .search ,.groups{
