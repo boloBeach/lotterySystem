@@ -24,6 +24,36 @@ public class GetDataServlet extends HttpServlet {
 	public void init() throws ServletException {
 		usersService = new UsersService();
 	}
+	
+	private String prizeNo;
+	
+
+	public String getPrizeNo() {
+		return prizeNo;
+	}
+
+	public void setPrizeNo(String prizeNo) {
+		this.prizeNo = prizeNo;
+	}
+
+	private String[] ids;
+	private String prizeName;
+	
+	public String[] getIds() {
+		return ids;
+	}
+
+	public void setIds(String[] ids) {
+		this.ids = ids;
+	}
+
+	public String getPrizeName() {
+		return prizeName;
+	}
+
+	public void setPrizeName(String prizeName) {
+		this.prizeName = prizeName;
+	}
 
 	@Override
 	protected void doPost(HttpServletRequest request,
@@ -34,20 +64,29 @@ public class GetDataServlet extends HttpServlet {
 		response.setHeader("Pragma", "no-cache");
 		String personIDs = request.getParameter("ids");
 		//String round = request.getParameter("round");
-		String prizeNo = request.getParameter("prizeNo");
-		String prizeName = request.getParameter("prizeName");
+	    prizeNo = request.getParameter("prizeNo");
+		prizeName = request.getParameter("prizeName");
 		System.out.println("personIDs: " + personIDs);
 		System.out.println("prizeNo: " + prizeNo);
 
-		String[] ids = null;
+		ids = null;
 		if (personIDs != null) {
 			ids = personIDs.split(",");
 		}
-		usersService.updateUsers(ids, prizeName);
-		usersService.exportToExcel();
-		if(prizeNo!=null){
-			usersService.updatePrizeStatus(prizeNo);
-		}
+		Thread thread = new Thread(new Runnable() {
+			
+			public void run() {
+				System.out.println("¿ªÆôÏß³Ì");
+				usersService.updateUsers(ids, prizeName);
+				usersService.exportToExcel();
+				if(prizeNo!=null){
+					usersService.updatePrizeStatus(prizeNo);
+				}
+			}
+		});
+		thread.start();
+		
+		
 
 		PrintWriter out = response.getWriter();
 		Gson gson = new Gson();
