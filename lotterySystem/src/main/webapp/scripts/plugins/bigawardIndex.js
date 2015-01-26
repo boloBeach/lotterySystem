@@ -34,6 +34,21 @@ $(document).ready(function(){
 					$('.news').hide();
 					}
 				);
+				
+				$(".right").hover(function(){
+					$(".boxgridC").find("h3").css("line-height","150px");
+					$(this).children().css("height","260");
+					$(this).children().animate({height:'260'},500);
+					$(".group-e-content").css("height","286").show(100);
+				},function(){
+					//$(".boxgridC").find("h3").css("line-height","350");
+					$(this).children().animate({height:'100%'},500);
+					$(".group-e-content").hide();
+					$(this).children().find("h3").css("line-height","350px");
+					
+				});
+				
+				
 				//slideright Effect
 				$('.slideright').hover(function(){
 					$(this).children().animate({left:'140'},{queue:false,duration:160});
