@@ -50,6 +50,7 @@ $(document).ready(function(){
 						prizeName : "bigAward"
 					},
 					success : function(data) {
+						alarm.val(data);
 					}
 				});
 				
@@ -118,6 +119,7 @@ $(document).ready(function(){
 						prizeName : "bigAward"
 					},
 					success : function(data) {
+						alarm.val(data);
 					}
 				});
 				

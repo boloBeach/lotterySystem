@@ -11,6 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import com.google.gson.Gson;
 import com.lotterySystem.bean.UsersBean;
+import com.lotterySystem.constant.Constants;
 import com.lotterySystem.service.UsersService;
 
 public class GetDataServlet extends HttpServlet {
@@ -24,9 +25,8 @@ public class GetDataServlet extends HttpServlet {
 	public void init() throws ServletException {
 		usersService = new UsersService();
 	}
-	
+
 	private String prizeNo;
-	
 
 	public String getPrizeNo() {
 		return prizeNo;
@@ -38,7 +38,7 @@ public class GetDataServlet extends HttpServlet {
 
 	private String[] ids;
 	private String prizeName;
-	
+
 	public String[] getIds() {
 		return ids;
 	}
@@ -63,8 +63,8 @@ public class GetDataServlet extends HttpServlet {
 		response.setHeader("Cache-Control", "no-cache");
 		response.setHeader("Pragma", "no-cache");
 		String personIDs = request.getParameter("ids");
-		//String round = request.getParameter("round");
-	    prizeNo = request.getParameter("prizeNo");
+		// String round = request.getParameter("round");
+		prizeNo = request.getParameter("prizeNo");
 		prizeName = request.getParameter("prizeName");
 		System.out.println("personIDs: " + personIDs);
 		System.out.println("prizeNo: " + prizeNo);
@@ -73,28 +73,43 @@ public class GetDataServlet extends HttpServlet {
 		if (personIDs != null) {
 			ids = personIDs.split(",");
 		}
-		Thread thread = new Thread(new Runnable() {
-			
-			public void run() {
-				System.out.println("开启线程");
-				usersService.updateUsers(ids, prizeName);
-				usersService.exportToExcel();
-				if(prizeNo!=null){
-					usersService.updatePrizeStatus(prizeNo);
+		if (ids.length > 1) {
+			Thread thread = new Thread(new Runnable() {
+
+				public void run() {
+					System.out.println("开启线程");
+					usersService.updateUsers(ids, prizeName);
+					usersService.exportToExcel();
+					if (prizeNo != null) {
+						usersService.updatePrizeStatus(prizeNo);
+					}
 				}
-			}
-		});
-		thread.start();
-		
-		
+			});
+			thread.start();
+		} else {
+			usersService.updateUsers(ids, prizeName);
+			usersService.exportToExcel();
+		}
+		List<UsersBean> bigAwardUsersBeans = usersService
+				.getBigAwardUsersBeans();
+		boolean alarm = false;
+		if (bigAwardUsersBeans != null && bigAwardUsersBeans.size() >= 4) {
+			alarm = true;
+		}
+		String alarmString = alarm + "";
 
 		PrintWriter out = response.getWriter();
 		Gson gson = new Gson();
-		List<UsersBean> listUsersBeans = usersService.getListUsersBeans();
-		out.write(gson.toJson(listUsersBeans));
+		if (Constants.BIG_AWARD_NAME.equals(prizeName)) {
+			System.out.println("Alarm: " + alarmString);
+			out.write(gson.toJson(alarmString));
+		} else {
+			List<UsersBean> listUsersBeans = usersService.getListUsersBeans();
+			out.write(gson.toJson(listUsersBeans));
+		}
 		out.close();
 	}
-	
+
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp)
 			throws ServletException, IOException {
